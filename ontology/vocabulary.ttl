@@ -58,10 +58,8 @@ jp:PlaceRelation a owl:Class ;
     rdfs:label "Place Relation" ;
     rdfs:comment "A spatial assertion relating an entity to a place, e.g., birth, death, residence, travel." .
 
-
-
 #######################################################################
-# OBJECT PROPERTIES
+# RELATION / OBJECT PROPERTIES
 #######################################################################
 
 jp:writtenBy a owl:ObjectProperty ;
@@ -104,6 +102,24 @@ jp:Mention a owl:Class ;
     rdfs:label "Mention" ;
     rdfs:comment "Represents a reference from a historical work to another historical entity (person or work), including the type of mention." .
 
+jp:mentionSource a owl:ObjectProperty ;
+    rdfs:label "mention source" ;
+    rdfs:domain jp:Mention ;
+    rdfs:range jp:HistoricalWork ;
+    rdfs:comment "The historical work that contains the mention." .
+
+jp:mentionTarget a owl:ObjectProperty ;
+    rdfs:label "mention target" ;
+    rdfs:domain jp:Mention ;
+    rdfs:range [ owl:unionOf ( jp:HistoricalWork jp:HistoricalPerson ) ] ;
+    rdfs:comment "The historical work or historical person that is being mentioned." .
+
+jp:mentionType a owl:DatatypeProperty ;
+    rdfs:label "mention type" ;
+    rdfs:domain jp:Mention ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Type of mention, e.g., 'translation', 'commentary', or 'other mention'." .
+
 jp:hasTimeRelation a owl:ObjectProperty ;
     rdfs:label "has time relation" ;
     rdfs:domain owl:Thing ;
@@ -133,7 +149,6 @@ jp:relatedPlace a owl:ObjectProperty ;
     rdfs:domain jp:PlaceRelation ;
     rdfs:range owl:Thing ;
     rdfs:comment "The place associated with this relation." .
-
 
 #######################################################################
 # DATATYPE PROPERTIES
@@ -168,27 +183,6 @@ jp:creatorName a owl:DatatypeProperty ;
     rdfs:domain jp:ScholarlyWork ;
     rdfs:range xsd:string ;
     rdfs:comment "Names of modern creators (editors, translators, authors) stored as text." .
-# The work that contains the mention
-
-jp:mentionSource a owl:ObjectProperty ;
-    rdfs:label "mention source" ;
-    rdfs:domain jp:Mention ;
-    rdfs:range jp:HistoricalWork ;
-    rdfs:comment "The historical work that contains the mention." .
-
-# The target of the mention (can be a historical person or a historical work)
-jp:mentionTarget a owl:ObjectProperty ;
-    rdfs:label "mention target" ;
-    rdfs:domain jp:Mention ;
-    rdfs:range [ owl:unionOf ( jp:HistoricalWork jp:HistoricalPerson ) ] ;
-    rdfs:comment "The historical work or historical person that is being mentioned." .
-
-# Type of mention
-jp:mentionType a owl:DatatypeProperty ;
-    rdfs:label "mention type" ;
-    rdfs:domain jp:Mention ;
-    rdfs:range xsd:string ;
-    rdfs:comment "Type of mention, e.g., 'translation', 'commentary', or 'other mention'." .
 
 jp:timeFrom a owl:DatatypeProperty ;
     rdfs:label "time from" ;
@@ -201,7 +195,6 @@ jp:timeUntil a owl:DatatypeProperty ;
     rdfs:domain jp:TimeRelation ;
     rdfs:range xsd:gYear ;
     rdfs:comment "End of the time interval (or single year)." .
-
 
 #######################################################################
 # END OF VOCABULARY

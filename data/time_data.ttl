@@ -2,7 +2,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 jp:AbrahamBarHiyya jp:hasTimeRelation jp:Q31439_P569,
-        jpeP570 .
+        jp:P570 .
 
 jp:AbrahamIbnDaud jp:hasTimeRelation jp:Q330821_P569,
         jp:Q330821_P570 .

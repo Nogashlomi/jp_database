@@ -1,516 +1,206 @@
 @prefix jp: <http://jewish_philosophy.org/ontology#> .
 
-jp:AbrahamBarHiyya jp:hasPlaceRelation jp:Q1492_P19,
-        jp:Q1492_P551,
-        jp:Q6555_P20 .
-
-jp:AbrahamIbnDaud jp:hasPlaceRelation jp:Q101081_P937,
-        jp:Q268025_P937,
-        jp:Q5818_P19,
-        jp:Q5836_P20 .
-
-jp:AbrahamIbnEzra jp:hasPlaceRelation jp:Q101081_P551,
-        jp:Q13373_P551,
-        jp:Q142410_P551,
-        jp:Q174019_P551,
-        jp:Q2028_P551,
-        jp:Q220_P551,
-        jp:Q244747_P19,
-        jp:Q244747_P551,
-        jp:Q244747_P937,
-        jp:Q30974_P551,
-        jp:Q6247_P551,
-        jp:Q642046_P20,
-        jp:Q6555_P551,
-        jp:Q84_P551 .
-
-jp:AlFarabi jp:hasPlaceRelation jp:Q3766_P20,
-        jp:Q956911_P19 .
-
-jp:Aristotle jp:hasPlaceRelation jp:Q1524_P551,
-        jp:Q21235810_P20,
-        jp:Q21235810_P937,
-        jp:Q744631_P551,
-        jp:Q846127_P19 .
-
-jp:Averroes jp:hasPlaceRelation jp:Q101625_P20,
-        jp:Q5818_P19 .
-
-jp:Avicenna jp:hasPlaceRelation jp:Q188155_P551,
-        jp:Q28587_P20,
-        jp:Q28587_P551,
-        jp:Q4072887_P19,
-        jp:Q42053_P551,
-        jp:Q472925_P551,
-        jp:Q5764_P551,
-        jp:Q636188_P551 .
-
-jp:BahyaIbnPaquda jp:hasPlaceRelation jp:Q10305_P19,
-        jp:Q10305_P20,
-        jp:Q10305_P937,
-        jp:Q29_P937 .
-
-jp:FakhrAlDinRazi jp:hasPlaceRelation jp:Q45313_P20,
-        jp:Q636188_P19 .
-
-jp:Gersonides jp:hasPlaceRelation jp:Q187796_P937,
-        jp:Q274183_P19,
-        jp:Q6397_P20,
-        jp:Q6397_P937,
-        jp:Q6730_P937 .
-
-jp:HasdayCrescas jp:hasPlaceRelation jp:Q10305_P20,
-        jp:Q1492_P19,
-        jp:Q1492_P937,
-        jp:Q29_P937 .
-
-jp:IbnHazm jp:hasPlaceRelation jp:Q10400_P20,
-        jp:Q10400_P551,
-        jp:Q12246_P20,
-        jp:Q5818_P19 .
-
-jp:IbnKammuna jp:hasPlaceRelation jp:Q1530_P19,
-        jp:Q243846_P20 .
-
-jp:IsaacAbravanel jp:hasPlaceRelation jp:Q597_P19,
-        jp:Q641_P20 .
-
-jp:JosephIbnSaddiq jp:hasPlaceRelation jp:Q5818_P19,
-        jp:Q5818_P20,
-        jp:Q5818_P937 .
-
-jp:JudahBenSolomon jp:hasPlaceRelation jp:Q5836_P19 .
-
-jp:JudahHaLevi jp:hasPlaceRelation jp:Q1218_P20,
-        jp:Q244747_P19 .
-
-jp:LeoneEbreo jp:hasPlaceRelation jp:Q2634_P20,
-        jp:Q597_P19 .
-
-jp:LeviBenAbraham jp:hasPlaceRelation jp:Q48292_P20,
-        jp:Q501114_P19 .
-
-jp:MeirAldabi jp:hasPlaceRelation jp:Q1218_P937,
-        jp:Q5836_P19 .
-
-jp:MosesIbnEzra jp:hasPlaceRelation jp:Q8810_P19,
-        jp:Q8810_P20 .
-
-jp:MosesIbnTibbon jp:hasPlaceRelation jp:Q23482_P19,
-        jp:Q23482_P20 .
-
-jp:MosesMaimonides jp:hasPlaceRelation jp:Q5818_P19,
-        jp:Q85_P20 .
-
-jp:MosesNarboni jp:hasPlaceRelation jp:Q12155_P20,
-        jp:Q6730_P19,
-        jp:Q6730_P20 .
-
-jp:RNissimMarseilles jp:hasPlaceRelation jp:Q23482_P19 .
-
-jp:SaadyaGaon jp:hasPlaceRelation jp:Q203299_P19,
-        jp:Q4446399_P20 .
-
-jp:SamuelIbnTibbon jp:hasPlaceRelation jp:Q23482_P20,
-        jp:Q23482_P551,
-        jp:Q318082_P19 .
-
-jp:SolomonIbnGabirol jp:hasPlaceRelation jp:Q8818_P20,
-        jp:Q8851_P19 .
-
-jp:SolomonMaimon jp:hasPlaceRelation jp:Q2250761_P19,
-        jp:Q2603120_P20,
-        jp:Q692363_P20 .
-
-jp:Spinoza jp:hasPlaceRelation jp:Q1615333_P937,
-        jp:Q36600_P20,
-        jp:Q36600_P937,
-        jp:Q727_P19,
-        jp:Q727_P937,
-        jp:Q809821_P937 .
-
-jp:ThomasAquinas jp:hasPlaceRelation jp:Q116415_P551,
-        jp:Q117211_P19,
-        jp:Q1775258_P20 .
-
-jp:YehudahMesserLeon jp:hasPlaceRelation jp:Q2634_P937,
-        jp:Q3415_P937,
-        jp:Q46165_P19,
-        jp:Q6247_P937 .
-
-jp:Q101081_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q101081" .
-
-jp:Q101081_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q101081" .
-
-jp:Q101625_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q101625" .
-
-jp:Q10305_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q10305" .
-
-jp:Q10305_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q10305" .
-
-jp:Q10400_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q10400" .
-
-jp:Q10400_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q10400" .
-
-jp:Q116415_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q116415" .
-
-jp:Q117211_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q117211" .
-
-jp:Q12155_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q12155" .
-
-jp:Q1218_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q1218" .
-
-jp:Q1218_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q1218" .
-
-jp:Q12246_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q12246" .
-
-jp:Q13373_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q13373" .
-
-jp:Q142410_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q142410" .
-
-jp:Q1492_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q1492" .
-
-jp:Q1492_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q1492" .
-
-jp:Q1524_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q1524" .
-
-jp:Q1530_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q1530" .
-
-jp:Q1615333_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q1615333" .
-
-jp:Q174019_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q174019" .
-
-jp:Q1775258_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q1775258" .
-
-jp:Q187796_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q187796" .
-
-jp:Q188155_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q188155" .
-
-jp:Q2028_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q2028" .
-
-jp:Q203299_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q203299" .
-
-jp:Q21235810_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q21235810" .
-
-jp:Q21235810_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q21235810" .
-
-jp:Q220_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q220" .
-
-jp:Q2250761_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q2250761" .
-
-jp:Q23482_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q23482" .
-
-jp:Q243846_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q243846" .
-
-jp:Q244747_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q244747" .
-
-jp:Q244747_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q244747" .
-
-jp:Q2603120_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q2603120" .
-
-jp:Q2634_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q2634" .
-
-jp:Q2634_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q2634" .
-
-jp:Q268025_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q268025" .
-
-jp:Q274183_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q274183" .
-
-jp:Q28587_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q28587" .
-
-jp:Q28587_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q28587" .
-
-jp:Q30974_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q30974" .
-
-jp:Q318082_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q318082" .
-
-jp:Q3415_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q3415" .
-
-jp:Q36600_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q36600" .
-
-jp:Q36600_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q36600" .
-
-jp:Q3766_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q3766" .
-
-jp:Q4072887_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q4072887" .
-
-jp:Q42053_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q42053" .
-
-jp:Q4446399_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q4446399" .
-
-jp:Q45313_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q45313" .
-
-jp:Q46165_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q46165" .
-
-jp:Q472925_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q472925" .
-
-jp:Q48292_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q48292" .
-
-jp:Q501114_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q501114" .
-
-jp:Q5764_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q5764" .
-
-jp:Q5818_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q5818" .
-
-jp:Q5818_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q5818" .
-
-jp:Q5836_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q5836" .
-
-jp:Q6247_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q6247" .
-
-jp:Q6247_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q6247" .
-
-jp:Q636188_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q636188" .
-
-jp:Q636188_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q636188" .
-
-jp:Q6397_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q6397" .
-
-jp:Q6397_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q6397" .
-
-jp:Q641_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q641" .
-
-jp:Q642046_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q642046" .
-
-jp:Q6555_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q6555" .
-
-jp:Q6555_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q6555" .
-
-jp:Q6730_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q6730" .
-
-jp:Q6730_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q6730" .
-
-jp:Q6730_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q6730" .
-
-jp:Q692363_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q692363" .
-
-jp:Q727_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q727" .
-
-jp:Q727_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q727" .
-
-jp:Q744631_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q744631" .
-
-jp:Q809821_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q809821" .
-
-jp:Q846127_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q846127" .
-
-jp:Q84_P551 a jp:PlaceRelation ;
-    jp:placeType "P551" ;
-    jp:relatedPlace "Q84" .
-
-jp:Q85_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q85" .
-
-jp:Q8810_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q8810" .
-
-jp:Q8810_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q8810" .
-
-jp:Q8818_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q8818" .
-
-jp:Q8851_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q8851" .
-
-jp:Q956911_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q956911" .
-
-jp:Q10305_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q10305" .
-
-jp:Q1492_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q1492" .
-
-jp:Q23482_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q23482" .
-
-jp:Q23482_P20 a jp:PlaceRelation ;
-    jp:placeType "P20" ;
-    jp:relatedPlace "Q23482" .
-
-jp:Q244747_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q244747" .
-
-jp:Q29_P937 a jp:PlaceRelation ;
-    jp:placeType "P937" ;
-    jp:relatedPlace "Q29" .
-
-jp:Q5836_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q5836" .
-
-jp:Q597_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q597" .
-
-jp:Q5818_P19 a jp:PlaceRelation ;
-    jp:placeType "P19" ;
-    jp:relatedPlace "Q5818" .
-
+# Person → place node
+jp:AbrahamBarHiyya jp:hasPlaceRelation jp:AbrahamBarHiyyaPlace .
+jp:AbrahamIbnDaud jp:hasPlaceRelation jp:AbrahamIbnDaudPlace .
+jp:AbrahamIbnEzra jp:hasPlaceRelation jp:AbrahamIbnEzraPlace .
+jp:AlFarabi jp:hasPlaceRelation jp:AlFarabiPlace .
+jp:Aristotle jp:hasPlaceRelation jp:AristotlePlace .
+jp:Averroes jp:hasPlaceRelation jp:AverroesPlace .
+jp:Avicenna jp:hasPlaceRelation jp:AvicennaPlace .
+jp:BahyaIbnPaquda jp:hasPlaceRelation jp:BahyaIbnPaqudaPlace .
+jp:FakhrAlDinRazi jp:hasPlaceRelation jp:FakhrAlDinRaziPlace .
+jp:Gersonides jp:hasPlaceRelation jp:GersonidesPlace .
+jp:HasdayCrescas jp:hasPlaceRelation jp:HasdayCrescasPlace .
+jp:IbnHazm jp:hasPlaceRelation jp:IbnHazmPlace .
+jp:IbnKammuna jp:hasPlaceRelation jp:IbnKammunaPlace .
+jp:IsaacAbravanel jp:hasPlaceRelation jp:IsaacAbravanelPlace .
+jp:JosephIbnSaddiq jp:hasPlaceRelation jp:JosephIbnSaddiqPlace .
+jp:JudahBenSolomon jp:hasPlaceRelation jp:JudahBenSolomonPlace .
+jp:JudahHaLevi jp:hasPlaceRelation jp:JudahHaLeviPlace .
+jp:LeoneEbreo jp:hasPlaceRelation jp:LeoneEbreoPlace .
+jp:LeviBenAbraham jp:hasPlaceRelation jp:LeviBenAbrahamPlace .
+jp:MeirAldabi jp:hasPlaceRelation jp:MeirAldabiPlace .
+jp:MosesIbnEzra jp:hasPlaceRelation jp:MosesIbnEzraPlace .
+jp:MosesIbnTibbon jp:hasPlaceRelation jp:MosesIbnTibbonPlace .
+jp:MosesMaimonides jp:hasPlaceRelation jp:MosesMaimonidesPlace .
+jp:MosesNarboni jp:hasPlaceRelation jp:MosesNarboniPlace .
+jp:RNissimMarseilles jp:hasPlaceRelation jp:RNissimMarseillesPlace .
+jp:SaadyaGaon jp:hasPlaceRelation jp:SaadyaGaonPlace .
+jp:SamuelIbnTibbon jp:hasPlaceRelation jp:SamuelIbnTibbonPlace .
+jp:SolomonIbnGabirol jp:hasPlaceRelation jp:SolomonIbnGabirolPlace .
+jp:SolomonMaimon jp:hasPlaceRelation jp:SolomonMaimonPlace .
+jp:Spinoza jp:hasPlaceRelation jp:SpinozaPlace .
+jp:ThomasAquinas jp:hasPlaceRelation jp:ThomasAquinasPlace .
+jp:YehudahMesserLeon jp:hasPlaceRelation jp:YehudahMesserLeonPlace .
+
+# Place nodes with all related places per person
+jp:AbrahamBarHiyyaPlace a jp:PlaceRelation ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q1492 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q1492 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q6555 .
+
+jp:AbrahamIbnDaudPlace a jp:PlaceRelation ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q101081 ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q268025 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q5818 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q5836 .
+
+jp:AbrahamIbnEzraPlace a jp:PlaceRelation ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q101081 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q13373 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q142410 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q174019 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q2028 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q220 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q244747 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q244747 ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q244747 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q30974 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q6247 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q642046 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q6555 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q84 .
+
+jp:AlFarabiPlace a jp:PlaceRelation ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q3766 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q956911 .
+
+jp:AristotlePlace a jp:PlaceRelation ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q1524 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q21235810 ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q21235810 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q744631 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q846127 .
+
+jp:AverroesPlace a jp:PlaceRelation ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q101625 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q5818 .
+
+jp:AvicennaPlace a jp:PlaceRelation ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q188155 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q28587 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q28587 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q4072887 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q42053 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q472925 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q5764 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q636188 .
+
+jp:BahyaIbnPaqudaPlace a jp:PlaceRelation ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q10305 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q10305 ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q10305 ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q29 .
+
+jp:FakhrAlDinRaziPlace a jp:PlaceRelation ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q45313 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q636188 .
+
+jp:GersonidesPlace a jp:PlaceRelation ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q187796 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q274183 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q6397 ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q6397 ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q6730 .
+
+jp:HasdayCrescasPlace a jp:PlaceRelation ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q10305 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q1492 ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q1492 ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q29 .
+
+jp:IbnHazmPlace a jp:PlaceRelation ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q10400 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q10400 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q12246 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q5818 .
+
+jp:IbnKammunaPlace a jp:PlaceRelation ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q1530 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q243846 .
+
+jp:IsaacAbravanelPlace a jp:PlaceRelation ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q597 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q641 .
+
+jp:JosephIbnSaddiqPlace a jp:PlaceRelation ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q5818 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q5818 ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q5818 .
+
+jp:JudahBenSolomonPlace a jp:PlaceRelation ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q5836 .
+
+jp:JudahHaLeviPlace a jp:PlaceRelation ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q1218 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q244747 .
+
+jp:LeoneEbreoPlace a jp:PlaceRelation ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q2634 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q597 .
+
+jp:LeviBenAbrahamPlace a jp:PlaceRelation ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q48292 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q501114 .
+
+jp:MeirAldabiPlace a jp:PlaceRelation ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q1218 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q5836 .
+
+jp:MosesIbnEzraPlace a jp:PlaceRelation ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q8810 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q8810 .
+
+jp:MosesIbnTibbonPlace a jp:PlaceRelation ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q23482 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q23482 .
+
+jp:MosesMaimonidesPlace a jp:PlaceRelation ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q5818 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q85 .
+
+jp:MosesNarboniPlace a jp:PlaceRelation ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q12155 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q6730 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q6730 .
+
+jp:RNissimMarseillesPlace a jp:PlaceRelation ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q23482 .
+
+jp:SaadyaGaonPlace a jp:PlaceRelation ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q203299 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q4446399 .
+
+jp:SamuelIbnTibbonPlace a jp:PlaceRelation ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q23482 ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q23482 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q318082 .
+
+jp:SolomonIbnGabirolPlace a jp:PlaceRelation ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q8818 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q8851 .
+
+jp:SolomonMaimonPlace a jp:PlaceRelation ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q2250761 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q2603120 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q692363 .
+
+jp:SpinozaPlace a jp:PlaceRelation ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q1615333 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q36600 ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q36600 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q727 ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q727 ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q809821 .
+
+jp:ThomasAquinasPlace a jp:PlaceRelation ;
+    jp:placeType "P551" ; jp:relatedPlace jp:Q116415 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q117211 ;
+    jp:placeType "P20" ; jp:relatedPlace jp:Q1775258 .
+
+jp:YehudahMesserLeonPlace a jp:PlaceRelation ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q2634 ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q3415 ;
+    jp:placeType "P19" ; jp:relatedPlace jp:Q46165 ;
+    jp:placeType "P937" ; jp:relatedPlace jp:Q6247 .
