@@ -1,0 +1,371 @@
+@prefix jp: <http://jewish_philosophy.org/ontology#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+jp:AbrahamBarHiyya jp:hasTimeRelation jp:Q31439_P569,
+        jpeP570 .
+
+jp:AbrahamIbnDaud jp:hasTimeRelation jp:Q330821_P569,
+        jp:Q330821_P570 .
+
+jp:AbrahamIbnEzra jp:hasTimeRelation jp:Q270670_P569,
+        jp:Q270670_P570 .
+
+jp:AlFarabi jp:hasTimeRelation jp:Q160460_P569,
+        jp:Q160460_P570 .
+
+jp:Aristotle jp:hasTimeRelation jp:Q868_P569,
+        jp:Q868_P570 .
+
+jp:Averroes jp:hasTimeRelation jp:Q39837_P569,
+        jp:Q39837_P570 .
+
+jp:Avicenna jp:hasTimeRelation jp:Q8011_P569,
+        jp:Q8011_P570 .
+
+jp:BahyaIbnPaquda jp:hasTimeRelation jp:Q762229_P569,
+        jp:Q762229_P570 .
+
+jp:FakhrAlDinRazi jp:hasTimeRelation jp:Q333703_P569,
+        jp:Q333703_P570 .
+
+jp:Gersonides jp:hasTimeRelation jp:Q353633_P569,
+        jp:Q353633_P570 .
+
+jp:HasdayCrescas jp:hasTimeRelation jp:Q528415_P569,
+        jp:Q528415_P570 .
+
+jp:IbnHazm jp:hasTimeRelation jp:Q317787_P569,
+        jp:Q317787_P570 .
+
+jp:IbnKammuna jp:hasTimeRelation jp:Q639821_P569,
+        jp:Q639821_P570 .
+
+jp:IsaacAbravanel jp:hasTimeRelation jp:Q319902_P569,
+        jp:Q319902_P570 .
+
+jp:JosephIbnSaddiq jp:hasTimeRelation jp:Q958426_P569,
+        jp:Q958426_P570 .
+
+jp:JudahBenSolomon jp:hasTimeRelation jp:Q56063581_P569,
+        jp:Q56063581_P570 .
+
+jp:JudahHaLevi jp:hasTimeRelation jp:Q299200_P569,
+        jp:Q299200_P570 .
+
+jp:LeoneEbreo jp:hasTimeRelation jp:Q467062_P569,
+        jp:Q467062_P570 .
+
+jp:LeviBenAbraham jp:hasTimeRelation jp:Q4256415_P569,
+        jp:Q4256415_P570 .
+
+jp:MeirAldabi jp:hasTimeRelation jp:Q6810276_P569,
+        jp:Q6810276_P570 .
+
+jp:MosesIbnEzra jp:hasTimeRelation jp:Q719393_P569,
+        jp:Q719393_P570 .
+
+jp:MosesIbnTibbon jp:hasTimeRelation jp:Q181498_P569,
+        jp:Q181498_P570 .
+
+jp:MosesMaimonides jp:hasTimeRelation jp:Q127398_P569,
+        jp:Q127398_P570 .
+
+jp:MosesNarboni jp:hasTimeRelation jp:Q1852000_P569,
+        jp:Q1852000_P570 .
+
+jp:SaadyaGaon jp:hasTimeRelation jp:Q328748_P569,
+        jp:Q328748_P570 .
+
+jp:SamuelIbnTibbon jp:hasTimeRelation jp:Q338123_P569,
+        jp:Q338123_P570 .
+
+jp:ShemTovFalaquera jp:hasTimeRelation jp:Q1383938_P569,
+        jp:Q1383938_P570 .
+
+jp:SolomonBenJudahLunel jp:hasTimeRelation jp:Q7558786_P569 .
+
+jp:SolomonIbnGabirol jp:hasTimeRelation jp:Q239355_P569,
+        jp:Q239355_P570 .
+
+jp:SolomonMaimon jp:hasTimeRelation jp:Q465763_P569,
+        jp:Q465763_P570 .
+
+jp:Spinoza jp:hasTimeRelation jp:Q35802_P569,
+        jp:Q35802_P570 .
+
+jp:ThomasAquinas jp:hasTimeRelation jp:Q9438_P569,
+        jp:Q9438_P570 .
+
+jp:YehudahMesserLeon jp:hasTimeRelation jp:Q669640_P569,
+        jp:Q669640_P570 .
+
+jp:Q127398_P569 a jp:TimeRelation ;
+    jp:timeFrom "1135"^^xsd:gYear,
+        "1138"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q127398_P570 a jp:TimeRelation ;
+    jp:timeFrom "1204"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q1383938_P569 a jp:TimeRelation ;
+    jp:timeFrom "1225"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q1383938_P570 a jp:TimeRelation ;
+    jp:timeFrom "1290"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q160460_P569 a jp:TimeRelation ;
+    jp:timeFrom "0870"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q160460_P570 a jp:TimeRelation ;
+    jp:timeFrom "0951"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q181498_P569 a jp:TimeRelation ;
+    jp:timeFrom "1195"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q181498_P570 a jp:TimeRelation ;
+    jp:timeFrom "1274"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q1852000_P569 a jp:TimeRelation ;
+    jp:timeFrom "1300"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q1852000_P570 a jp:TimeRelation ;
+    jp:timeFrom "1362"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q239355_P569 a jp:TimeRelation ;
+    jp:timeFrom "1020"^^xsd:gYear,
+        "1021"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q239355_P570 a jp:TimeRelation ;
+    jp:timeFrom "1057"^^xsd:gYear,
+        "1058"^^xsd:gYear,
+        "1070"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q270670_P569 a jp:TimeRelation ;
+    jp:timeFrom "1092"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q270670_P570 a jp:TimeRelation ;
+    jp:timeFrom "1167"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q299200_P569 a jp:TimeRelation ;
+    jp:timeFrom "1075"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q299200_P570 a jp:TimeRelation ;
+    jp:timeFrom "1141"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q31439_P569 a jp:TimeRelation ;
+    jp:timeFrom "1070"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q31439_P570 a jp:TimeRelation ;
+    jp:timeFrom "1136"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q317787_P569 a jp:TimeRelation ;
+    jp:timeFrom "0994"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q317787_P570 a jp:TimeRelation ;
+    jp:timeFrom "1064"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q319902_P569 a jp:TimeRelation ;
+    jp:timeFrom "1437"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q319902_P570 a jp:TimeRelation ;
+    jp:timeFrom "1508"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q328748_P569 a jp:TimeRelation ;
+    jp:timeFrom "0882"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q328748_P570 a jp:TimeRelation ;
+    jp:timeFrom "0942"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q330821_P569 a jp:TimeRelation ;
+    jp:timeFrom "1110"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q330821_P570 a jp:TimeRelation ;
+    jp:timeFrom "1180"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q333703_P569 a jp:TimeRelation ;
+    jp:timeFrom "1150"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q333703_P570 a jp:TimeRelation ;
+    jp:timeFrom "1210"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q338123_P569 a jp:TimeRelation ;
+    jp:timeFrom "1150"^^xsd:gYear,
+        "1160"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q338123_P570 a jp:TimeRelation ;
+    jp:timeFrom "1230"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q353633_P569 a jp:TimeRelation ;
+    jp:timeFrom "1288"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q353633_P570 a jp:TimeRelation ;
+    jp:timeFrom "1344"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q35802_P569 a jp:TimeRelation ;
+    jp:timeFrom "1632"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q35802_P570 a jp:TimeRelation ;
+    jp:timeFrom "1677"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q39837_P569 a jp:TimeRelation ;
+    jp:timeFrom "1126"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q39837_P570 a jp:TimeRelation ;
+    jp:timeFrom "1198"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q4256415_P569 a jp:TimeRelation ;
+    jp:timeFrom "1235"^^xsd:gYear,
+        "1245"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q4256415_P570 a jp:TimeRelation ;
+    jp:timeFrom "http://www.wikidata.org/.well-known/genid/4415e939049e493516cac78ecb6b6bb7"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q465763_P569 a jp:TimeRelation ;
+    jp:timeFrom "1754"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q465763_P570 a jp:TimeRelation ;
+    jp:timeFrom "1800"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q467062_P569 a jp:TimeRelation ;
+    jp:timeFrom "1460"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q467062_P570 a jp:TimeRelation ;
+    jp:timeFrom "1521"^^xsd:gYear,
+        "1530"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q528415_P569 a jp:TimeRelation ;
+    jp:timeFrom "1340"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q528415_P570 a jp:TimeRelation ;
+    jp:timeFrom "1410"^^xsd:gYear,
+        "1412"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q56063581_P569 a jp:TimeRelation ;
+    jp:timeFrom "1215"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q56063581_P570 a jp:TimeRelation ;
+    jp:timeFrom "http://www.wikidata.org/.well-known/genid/21f0338798030d406526d50ae42858b0"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q639821_P569 a jp:TimeRelation ;
+    jp:timeFrom "1215"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q639821_P570 a jp:TimeRelation ;
+    jp:timeFrom "1284"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q669640_P569 a jp:TimeRelation ;
+    jp:timeFrom "1422"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q669640_P570 a jp:TimeRelation ;
+    jp:timeFrom "1498"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q6810276_P569 a jp:TimeRelation ;
+    jp:timeFrom "1310"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q6810276_P570 a jp:TimeRelation ;
+    jp:timeFrom "1360"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q719393_P569 a jp:TimeRelation ;
+    jp:timeFrom "1058"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q719393_P570 a jp:TimeRelation ;
+    jp:timeFrom "1138"^^xsd:gYear,
+        "1139"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q7558786_P569 a jp:TimeRelation ;
+    jp:timeFrom "1411"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q762229_P569 a jp:TimeRelation ;
+    jp:timeFrom "1050"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q762229_P570 a jp:TimeRelation ;
+    jp:timeFrom "1100"^^xsd:gYear,
+        "1120"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q8011_P569 a jp:TimeRelation ;
+    jp:timeFrom "0980"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q8011_P570 a jp:TimeRelation ;
+    jp:timeFrom "1037"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q868_P569 a jp:TimeRelation ;
+    jp:timeFrom "-038"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q868_P570 a jp:TimeRelation ;
+    jp:timeFrom "-032"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q9438_P569 a jp:TimeRelation ;
+    jp:timeFrom "1225"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q9438_P570 a jp:TimeRelation ;
+    jp:timeFrom "1274"^^xsd:gYear ;
+    jp:timeType "P570" .
+
+jp:Q958426_P569 a jp:TimeRelation ;
+    jp:timeFrom "1075"^^xsd:gYear ;
+    jp:timeType "P569" .
+
+jp:Q958426_P570 a jp:TimeRelation ;
+    jp:timeFrom "1149"^^xsd:gYear ;
+    jp:timeType "P570" .
+

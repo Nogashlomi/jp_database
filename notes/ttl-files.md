@@ -1,3 +1,5 @@
+vocabulary.ttl
+
 languages.ttl
 person-historical.ttl
 relations.ttl

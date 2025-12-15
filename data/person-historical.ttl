@@ -78,7 +78,7 @@ jp:MeirAldabi a jp:HistoricalPerson ;
 
 jp:AbrahamAvigdor a jp:HistoricalPerson ;
     rdfs:label "Abraham Avigdor" ;
-    jp: authorityLink <http://viaf.org/viaf/317277681> .
+    jp:authorityLink <http://viaf.org/viaf/317277681> .
 
 jp:MosesIbnTibbon a jp:HistoricalPerson ;
     rdfs:label "Moses ibn Tibbon" ;
