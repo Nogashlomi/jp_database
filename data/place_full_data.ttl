@@ -72,7 +72,7 @@ jp:Q220 a jp:Place ;
     rdfs:label "Rome" .
 
 jp:Q2250761 a jp:Place ;
-    rdfs:label "Žukaŭ Barok" .
+    rdfs:label "Zukau Barok" .
 
 jp:Q23482 a jp:Place ;
     rdfs:label "Marseille" .
