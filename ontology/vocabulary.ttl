@@ -46,6 +46,10 @@ jp:Subject a owl:Class ;
     rdfs:label "Subject" ;
     rdfs:comment "A topical subject area of a work: astronomy, theology, philosophy, etc." .
 
+jp:ExternalAuthority a owl:Class ;
+    rdfs:label "External Authority" ;
+    rdfs:comment "Wikidata, VIAF, or other external authority identifiers." .
+
 #######################################################################
 # TEMPORAL AND SPATIAL CLASSES
 #######################################################################
@@ -57,6 +61,15 @@ jp:TimeRelation a owl:Class ;
 jp:PlaceRelation a owl:Class ;
     rdfs:label "Place Relation" ;
     rdfs:comment "A spatial assertion relating an entity to a place, e.g., birth, death, residence, travel." .
+
+#######################################################################
+# UNION CLASSES (Named instead of anonymous)
+#######################################################################
+
+jp:HistoricalEntity a owl:Class ;
+    owl:unionOf ( jp:HistoricalPerson jp:HistoricalWork ) ;
+    rdfs:label "Historical Entity" ;
+    rdfs:comment "Either a historical person or a historical work." .
 
 #######################################################################
 # RELATION / OBJECT PROPERTIES
@@ -95,59 +108,59 @@ jp:hasSubject a owl:ObjectProperty ;
 jp:authorityLink a owl:ObjectProperty ;
     rdfs:label "authority link" ;
     rdfs:domain jp:HistoricalPerson ;
-    rdfs:range owl:Thing ;
-    rdfs:comment "Links a historical person to external authority identifiers (Wikidata, VIAF...). Values can be added later." .
+    rdfs:range jp:ExternalAuthority ;
+    rdfs:comment "Links a historical person to external authority identifiers." .
 
-jp:Mention a owl:Class ;
-    rdfs:label "Mention" ;
-    rdfs:comment "Represents a reference from a historical work to another historical entity (person or work), including the type of mention." .
+jp:HistoricalReference a owl:Class ;
+    rdfs:label "Historical Reference" ;
+    rdfs:comment "Represents a reference from a historical work to another historical entity (person or work), including the type of reference." .
 
-jp:mentionSource a owl:ObjectProperty ;
-    rdfs:label "mention source" ;
-    rdfs:domain jp:Mention ;
+jp:referenceSource a owl:ObjectProperty ;
+    rdfs:label "Source Work" ;
+    rdfs:domain jp:HistoricalReference ;
     rdfs:range jp:HistoricalWork ;
-    rdfs:comment "The historical work that contains the mention." .
+    rdfs:comment "The historical work that contains the reference." .
 
-jp:mentionTarget a owl:ObjectProperty ;
-    rdfs:label "mention target" ;
-    rdfs:domain jp:Mention ;
-    rdfs:range [ owl:unionOf ( jp:HistoricalWork jp:HistoricalPerson ) ] ;
-    rdfs:comment "The historical work or historical person that is being mentioned." .
+jp:referenceTarget a owl:ObjectProperty ;
+    rdfs:label "Target Entity" ;
+    rdfs:domain jp:HistoricalReference ;
+    rdfs:range jp:HistoricalEntity ;
+    rdfs:comment "The historical work or historical person that is being referenced." .
 
-jp:mentionType a owl:DatatypeProperty ;
-    rdfs:label "mention type" ;
-    rdfs:domain jp:Mention ;
+jp:referenceType a owl:DatatypeProperty ;
+    rdfs:label "Reference Type" ;
+    rdfs:domain jp:HistoricalReference ;
     rdfs:range xsd:string ;
-    rdfs:comment "Type of mention, e.g., 'translation', 'commentary', or 'other mention'." .
+    rdfs:comment "Type of reference, e.g., 'translation', 'commentary', or 'other reference'." .
 
 jp:hasTimeRelation a owl:ObjectProperty ;
     rdfs:label "has time relation" ;
-    rdfs:domain owl:Thing ;
+    rdfs:domain jp:HistoricalEntity ;
     rdfs:range jp:TimeRelation ;
     rdfs:comment "Links an entity to a time assertion." .
 
 jp:timeType a owl:ObjectProperty ;
     rdfs:label "time type" ;
     rdfs:domain jp:TimeRelation ;
-    rdfs:range owl:Thing ;
+    rdfs:range jp:HistoricalEntity ;
     rdfs:comment "The kind of temporal relation, e.g., birth, death, activity." .
 
 jp:hasPlaceRelation a owl:ObjectProperty ;
     rdfs:label "has place relation" ;
-    rdfs:domain owl:Thing ;
+    rdfs:domain jp:HistoricalEntity ;
     rdfs:range jp:PlaceRelation ;
     rdfs:comment "Links an entity to a place assertion." .
 
 jp:placeType a owl:ObjectProperty ;
     rdfs:label "place type" ;
     rdfs:domain jp:PlaceRelation ;
-    rdfs:range owl:Thing ;
+    rdfs:range jp:HistoricalEntity ;
     rdfs:comment "The kind of place relation, e.g., birth, death, residence, travel." .
 
 jp:relatedPlace a owl:ObjectProperty ;
     rdfs:label "related place" ;
     rdfs:domain jp:PlaceRelation ;
-    rdfs:range owl:Thing ;
+    rdfs:range jp:HistoricalEntity ;
     rdfs:comment "The place associated with this relation." .
 
 #######################################################################
