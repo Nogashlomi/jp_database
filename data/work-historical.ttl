@@ -2,218 +2,705 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+jp:KitabalMiaBookoftheHundred a jp:HistoricalWork ;
+    jp:title "Kitāb al-Mi’a (Book of the Hundred)" .
 
-### Abraham ibn Da’ud
-jp:ExaltedFaith a jp:HistoricalWork ;
-    jp:title "Exalted Faith" ;
-    jp:writtenBy jp:AbrahamIbnDaud .
+jp:MaamarYiqqawuhaMayim a jp:HistoricalWork ;
+    jp:title "Ma’amar Yiqqawu ha-Mayim" .
 
-jp:PolemicsAgainstMuslimsChristians a jp:HistoricalWork ;
-    jp:title "Polemics against Muslims and Christians" ;
-    jp:writtenBy jp:AbrahamIbnDaud .
+jp:BookofJob a jp:HistoricalWork ;
+    jp:title "Book of Job" .
 
-jp:TheThreeRings a jp:HistoricalWork ;
-    jp:title "The Three Rings" ;
-    jp:writtenBy jp:AbrahamIbnDaud .
+jp:RevealerofSecrets a jp:HistoricalWork ;
+    jp:title "Revealer of Secrets" .
 
-### Abraham ibn Ezra
-jp:BookOfReasons a jp:HistoricalWork ;
-    jp:title "The Book of Reasons" ;
-    jp:writtenBy jp:AbrahamIbnEzra .
+jp:SummulaeLogicales a jp:HistoricalWork ;
+    jp:title "Summulae Logicales" .
 
-jp:HayyBenMeqitz a jp:HistoricalWork ;
-    jp:title "Scholarly Writings; Hayy ben Meqitz" ;
-    jp:writtenBy jp:AbrahamIbnEzra .
+jp:Livredescauses a jp:HistoricalWork ;
+    jp:title "Livre des causes" .
 
-jp:CommentaryOnGenesis_IbnEzra a jp:HistoricalWork ;
-    jp:title "Commentaries on Genesis" ;
-    jp:writtenBy jp:AbrahamIbnEzra .
+jp:ShaareṢedeq a jp:HistoricalWork ;
+    jp:title "Shaʿare Ṣedeq" .
 
-jp:AstrologicalWorks_IbnEzra a jp:HistoricalWork ;
-    jp:title "Astrological works" ;
-    jp:writtenBy jp:AbrahamIbnEzra .
+jp:Metafisica a jp:HistoricalWork ;
+    jp:title "Metafisica" .
 
-### Al-Fârâbî
-jp:RisalahFiAlAql a jp:HistoricalWork ;
-    jp:title "Risâlah fî'l-‘aql" ;
-    jp:writtenBy jp:AlFarabi .
+jp:MaamarhaeḥadvehaaḥdutDeunitateetuno a jp:HistoricalWork ;
+    jp:title "Maamar ha-eḥad ve-ha-aḥdut (De unitate et uno)" .
 
-### Averroes
-jp:MiddleCommentaryDeAnima a jp:HistoricalWork ;
-    jp:title "Middle Commentary on Aristotle’s De Anima" ;
-    jp:writtenBy jp:Averroes .
+jp:Deconsolationephilosophiae a jp:HistoricalWork ;
+    jp:title "De consolatione philosophiae" .
 
-### Avicenna
-jp:HayyIbnYaqzan_Avicenna a jp:HistoricalWork ;
-    jp:title "Hayy ibn Yaqzân" ;
-    jp:writtenBy jp:Avicenna .
+jp:TheGovernanceoftheSolitary a jp:HistoricalWork ;
+    jp:title "The Governance of the Solitary" .
 
-### Bahya ibn Paquda
-jp:Kuzari_BahyaMistake a jp:HistoricalWork ;
-    jp:title "Sefer ha-Kuzari" ;
-    jp:writtenBy jp:BahyaIbnPaquda .
+jp:SeferhanefešTractatusdeanima a jp:HistoricalWork ;
+    jp:title "Sefer ha-nefeš (Tractatus de anima)" .
 
-jp:DutiesOfTheHeart a jp:HistoricalWork ;
-    jp:title "Duties of the Heart" ;
-    jp:writtenBy jp:BahyaIbnPaquda .
+jp:GuideofthePerplexed a jp:HistoricalWork ;
+    jp:title "Guide of the Perplexed" .
 
-### David ben Saul
-jp:Letter_DavidBenSaul a jp:HistoricalWork ;
-    jp:title "Letter (philosophical discussion)" ;
-    jp:writtenBy jp:DavidBenSaul .
+jp:GuideofthePerplexedI17 a jp:HistoricalWork ;
+    jp:title "Guide of the Perplexed I.17" .
 
-### Don Isaac Abravanel
-jp:DefenderOfTheFaith a jp:HistoricalWork ;
-    jp:title "Defender of the Faith" ;
-    jp:writtenBy jp:DonIsaacAbravanel .
+jp:MishnehTorahvol2 a jp:HistoricalWork ;
+    jp:title "Mishneh Torah, vol. 2" .
 
-### Eliahu del Medigo
-jp:TranslationAverroesEpitome a jp:HistoricalWork ;
-    jp:title "Translation of Averroes’ Epitome Acerca del Alma" ;
-    jp:writtenBy jp:EliahuDelMedigo .
+jp:Quaestiodeattributis a jp:HistoricalWork ;
+    jp:title "Quaestio de attributis" .
 
-### Falaquera
-jp:OpuscoloDellaContesa a jp:HistoricalWork ;
-    jp:title "Opuscolo della contesa" ;
-    jp:writtenBy jp:ShemTovFalaquera .
-
-### Gersonides (Levi ben Gershom)
-jp:WarsOfTheLord a jp:HistoricalWork ;
-    jp:title "Wars of the Lord" ;
-    jp:writtenBy jp:Gersonides .
-
-jp:SeferHaSekhel a jp:HistoricalWork ;
-    jp:title "Sefer ha-Sekhel we-ha-muskalot" ;
-    jp:writtenBy jp:Gersonides .
-
-jp:CommentaryPtolemyAstronomy a jp:HistoricalWork ;
-    jp:title "Commentary on Ptolemy’s Astronomy" ;
-    jp:writtenBy jp:Gersonides .
-
-### Hasday Crescas
-jp:AntiAristotelianWorks_Crescas a jp:HistoricalWork ;
-    jp:title "Anti-Aristotelian philosophical works" ;
-    jp:writtenBy jp:HasdayCrescas .
-
-### Ibn Kammuna
-jp:VariousPhilosophicalWorks_IbnKammuna a jp:HistoricalWork ;
-    jp:title "Various philosophical works" ;
-    jp:writtenBy jp:IbnKammuna .
-
-### Isaac Abravanel (Judah/Leone Ebreo)
-jp:DialoghiDAmore_Abravanel a jp:HistoricalWork ;
-    jp:title "Dialoghi d'Amore" ;
-    jp:writtenBy jp:IsaacAbravanel .
-
-### Joseph ibn Saddiq
-jp:Microcosm a jp:HistoricalWork ;
-    jp:title "The Microcosm" ;
-    jp:writtenBy jp:JosephIbnSaddiq .
-
-### Judah ben Solomon
-jp:MidrashHaHokhmah a jp:HistoricalWork ;
-    jp:title "Midrash ha-Hokhmah" ;
-    jp:writtenBy jp:JudahBenSolomon .
-
-### Judah Halevi
-jp:Kuzari_JudahHalevi a jp:HistoricalWork ;
-    jp:title "Kuzari" ;
-    jp:writtenBy jp:JudahHaLevi .
-
-### Levi ben Abraham (Levi ben Avraham)
-jp:LivyatHen_AccountOfCreation a jp:HistoricalWork ;
-    jp:title "Livyat Hen: Account of Creation" ;
-    jp:writtenBy jp:LeviBenAbraham .
-
-jp:LivyatHen_Prophecy a jp:HistoricalWork ;
-    jp:title "Livyat Hen: The Quality of Prophecy and the Secrets of the Torah" ;
-    jp:writtenBy jp:LeviBenAbraham .
-
-jp:LivyatHen a jp:HistoricalWork ;
-    jp:title "Livyat Hen" ;
-    jp:writtenBy jp:LeviBenAbraham .
-
-### Maimonides
-jp:GuideOfThePerplexed a jp:HistoricalWork ;
-    jp:title "Guide of the Perplexed" ;
-    jp:writtenBy jp:MosesMaimonides .
+jp:Ma‛asehMerkavah a jp:HistoricalWork ;
+    jp:title "Ma‛aseh Merkavah" .
 
 jp:MishnehTorah a jp:HistoricalWork ;
-    jp:title "Mishneh Torah" ;
-    jp:writtenBy jp:MosesMaimonides .
+    jp:title "Mishneh Torah" .
 
-jp:BookOfLove_MishnehTorah a jp:HistoricalWork ;
-    jp:title "Book of Love (Mishneh Torah, vol. 2)" ;
-    jp:writtenBy jp:MosesMaimonides .
+jp:GuideII24 a jp:HistoricalWork ;
+    jp:title "Guide, II, 24" .
 
-### Meir Aldabi
-jp:ShevileEmunah a jp:HistoricalWork ;
-    jp:title "Shevile Emunah" ;
-    jp:writtenBy jp:MeirAldabi .
+jp:Guide224 a jp:HistoricalWork ;
+    jp:title "Guide 2:24" .
 
-### Moses ibn Tibbon
-jp:HebrewTranslation_MiddleCommentaryDeAnima a jp:HistoricalWork ;
-    jp:title "Hebrew translation of Averroes’ Middle Commentary on Aristotle’s De Anima" ;
-    jp:writtenBy jp:MosesIbnTibbon .
+jp:TheGuideforthePerplexed a jp:HistoricalWork ;
+    jp:title "The Guide for the Perplexed" .
 
-### Moses Narboni
-jp:CommentaryOnHayyIbnYaqzan a jp:HistoricalWork ;
-    jp:title "Commentary on Ibn Tufayl’s Hayy ibn Yaqzân" ;
-    jp:writtenBy jp:MosesNarboni .
+jp:Guide a jp:HistoricalWork ;
+    jp:title "Guide" .
 
-### Moses Ibn ‘Ezra
-jp:TreatiseOfTheGarden a jp:HistoricalWork ;
-    jp:title "Treatise of the Garden" ;
-    jp:writtenBy jp:MosesIbnEzra .
+jp:Guidadeiperplessi a jp:HistoricalWork ;
+    jp:title "Guida dei perplessi" .
 
-### Asher b. Meshullam of Lunel
-jp:NeoplatonicWritings_Asher a jp:HistoricalWork ;
-    jp:title "Various Neoplatonic works in Hebrew" ;
-    jp:writtenBy jp:AsherBenMeshullamLunel .
+jp:Pugiofidei a jp:HistoricalWork ;
+    jp:title "Pugio fidei" .
 
-### R. Nissim of Marseilles
-jp:MaaseNissim a jp:HistoricalWork ;
-    jp:title "Ma‛ase Nissim" ;
-    jp:writtenBy jp:RNissimMarseilles .
+jp:EpistleonAstrology a jp:HistoricalWork ;
+    jp:title "Epistle on Astrology" .
 
-### Saadia Gaon
-jp:VariousPhilosophicalWorks_Saadia a jp:HistoricalWork ;
-    jp:title "Various philosophical works" ;
-    jp:writtenBy jp:SaadyaGaon .
+jp:SeferhaMitsvot a jp:HistoricalWork ;
+    jp:title "Sefer ha-Mitsvot" .
 
-### Samuel ibn Tibbon
-jp:GlossesToGuide a jp:HistoricalWork ;
-    jp:title "Glosses to Maimonides' Guide of the Perplexed" ;
-    jp:writtenBy jp:SamuelIbnTibbon .
+jp:Duxneutrorum a jp:HistoricalWork ;
+    jp:title "Dux neutrorum" .
 
-jp:CommentaryEcclesiastes_IbnTibbon a jp:HistoricalWork ;
-    jp:title "Commentary on Ecclesiastes; The Book of the Soul of Man" ;
-    jp:writtenBy jp:SamuelIbnTibbon .
+jp:CommentaryontheMishnah a jp:HistoricalWork ;
+    jp:title "Commentary on the Mishnah" .
 
-jp:MaamarYiqqawuHaMayim a jp:HistoricalWork ;
-    jp:title "Ma’amar Yiqqawu ha-Mayim" ;
-    jp:writtenBy jp:SamuelIbnTibbon .
+jp:ThirteenPrinciples a jp:HistoricalWork ;
+    jp:title "Thirteen Principles" .
 
-### Shem Tov Ibn Falaquera
-jp:ArabicLibrary_HebrewTransmission a jp:HistoricalWork ;
-    jp:title "Arabic Library (Hebrew transmission)" ;
-    jp:writtenBy jp:ShemTovFalaquera .
+jp:PrincipleK a jp:HistoricalWork ;
+    jp:title "Principle K" .
 
-### Solomon ben Judah of Lunel
-jp:HesheqShelomo a jp:HistoricalWork ;
-    jp:title "Hesheq Shelomo (Commentary on the Kuzari)" ;
-    jp:writtenBy jp:SolomonBenJudahLunel .
+jp:TreatiseontheArtofLogic a jp:HistoricalWork ;
+    jp:title "Treatise on the Art of Logic" .
 
-### Solomon ibn Gabirol
+jp:MorehhaNevukhim a jp:HistoricalWork ;
+    jp:title "Moreh ha-Nevukhim" .
+
+jp:SeferMelakhim a jp:HistoricalWork ;
+    jp:title "Sefer Melakhim" .
+
+jp:Commentaries a jp:HistoricalWork ;
+    jp:title "Commentaries" .
+
+jp:SeferhaMadda‘ a jp:HistoricalWork ;
+    jp:title "Sefer ha-Madda‘" .
+
+jp:MaimonidesThirteenPrinciples a jp:HistoricalWork ;
+    jp:title "Maimonides’ Thirteen Principles" .
+
+jp:MaimonideanApocrypha a jp:HistoricalWork ;
+    jp:title "Maimonidean Apocrypha" .
+
+jp:LehemMishneh a jp:HistoricalWork ;
+    jp:title "Lehem Mishneh" .
+
+jp:‘Duxneutrorum a jp:HistoricalWork ;
+    jp:title "‘Dux neutrorum’" .
+
+jp:Shhr a jp:HistoricalWork ;
+    jp:title "Sh-h-r" .
+
+jp:LogicalOrganonTopica a jp:HistoricalWork ;
+    jp:title "Logical Organon: Topica" .
+
+jp:EpistleoftheDebate a jp:HistoricalWork ;
+    jp:title "Epistle of the Debate" .
+
+jp:BookofDialectic a jp:HistoricalWork ;
+    jp:title "Book of Dialectic" .
+
+jp:TopicsonPhilosophyandtheHolyWrit a jp:HistoricalWork ;
+    jp:title "Topics on Philosophy and the Holy Writ" .
+
+jp:HebrewSymposium a jp:HistoricalWork ;
+    jp:title "Hebrew Symposium" .
+
+jp:Risâlahfîl‘aql a jp:HistoricalWork ;
+    jp:title "Risâlah fî'l-‘aql" .
+
+jp:PerushhaMillothaZarot a jp:HistoricalWork ;
+    jp:title "Perush ha-Millot ha-Zarot" .
+
+jp:Eisagoge a jp:HistoricalWork ;
+    jp:title "Eisagoge" .
+
+jp:Categories a jp:HistoricalWork ;
+    jp:title "Categories" .
+
+jp:LostLongCommentary/GlossCommentaryonAristotlesTopicsBookVIII a jp:HistoricalWork ;
+    jp:title "Lost Long Commentary/Gloss-Commentary on Aristotle’s Topics, Book VIII" .
+
+jp:PlatosLaws a jp:HistoricalWork ;
+    jp:title "Plato’s Laws" .
+
+jp:TheArtofDialectic a jp:HistoricalWork ;
+    jp:title "The Art of Dialectic" .
+
+jp:EighthBookofAristotlesTopics a jp:HistoricalWork ;
+    jp:title "Eighth Book of Aristotle’s Topics" .
+
+jp:TheEthics a jp:HistoricalWork ;
+    jp:title "The Ethics" .
+
+jp:SeferYesira a jp:HistoricalWork ;
+    jp:title "Sefer Yesira" .
+
+jp:Desubstantiaorbis a jp:HistoricalWork ;
+    jp:title "De substantia orbis" .
+
+jp:ShaarhaShamayim a jp:HistoricalWork ;
+    jp:title "Shaʿar ha-Shamayim" .
+
+jp:SeferPeah a jp:HistoricalWork ;
+    jp:title "Sefer Peah" .
+
+jp:MaamarhaTaninim a jp:HistoricalWork ;
+    jp:title "Maamar ha-Taninim" .
+
+jp:PerushhaAzharot a jp:HistoricalWork ;
+    jp:title "Perush ha-Azharot" .
+
+jp:GuidadeiPerplessi a jp:HistoricalWork ;
+    jp:title "Guida dei Perplessi" .
+
+jp:MaqaṣidalFalasifahAimsofthePhilosophers a jp:HistoricalWork ;
+    jp:title "Maqāṣid al Falāsifah (Aims of the Philosophers)" .
+
+jp:Arsbrevis a jp:HistoricalWork ;
+    jp:title "Ars brevis" .
+
+jp:BookofJoshua a jp:HistoricalWork ;
+    jp:title "Book of Joshua" .
+
+jp:Epitome a jp:HistoricalWork ;
+    jp:title "Epitome" .
+
+jp:Fontedellavita a jp:HistoricalWork ;
+    jp:title "Fonte della vita" .
+
+jp:Lelivredelaméliorationdesqualitésdelâme a jp:HistoricalWork ;
+    jp:title "Le livre de l’amélioration des qualités de l’âme" .
+
+jp:Sēferhamūsar a jp:HistoricalWork ;
+    jp:title "Sēfer ha-mūsār" .
+
+jp:Eshkōlhakōfer a jp:HistoricalWork ;
+    jp:title "Eshkōl ha-kōfer" .
+
+jp:Eshkolhakofer a jp:HistoricalWork ;
+    jp:title "Eshkol ha-kofer" .
+
+jp:HayyIbnYaqzan a jp:HistoricalWork ;
+    jp:title "Hayy Ibn Yaqzan" .
+
+jp:CommentaryontheTorah a jp:HistoricalWork ;
+    jp:title "Commentary on the Torah" .
+
+jp:HaybenMeqitz a jp:HistoricalWork ;
+    jp:title "Hay ben Meqitz" .
+
+jp:HayyibnYaqzân a jp:HistoricalWork ;
+    jp:title "Hayy ibn Yaqzân" .
+
+jp:BookofReasons a jp:HistoricalWork ;
+    jp:title "Book of Reasons" .
+
+jp:BookoftheWorld a jp:HistoricalWork ;
+    jp:title "Book of the World" .
+
+jp:YesodMora a jp:HistoricalWork ;
+    jp:title "Yesod Mora" .
+
+jp:BookofElections a jp:HistoricalWork ;
+    jp:title "Book of Elections" .
+
+jp:BookofInterrogations a jp:HistoricalWork ;
+    jp:title "Book of Interrogations" .
+
+jp:BookoftheLuminaries a jp:HistoricalWork ;
+    jp:title "Book of the Luminaries" .
+
+jp:BookofNativities a jp:HistoricalWork ;
+    jp:title "Book of Nativities" .
+
+jp:BookofRevolution a jp:HistoricalWork ;
+    jp:title "Book of Revolution" .
+
+jp:TorahCommentary a jp:HistoricalWork ;
+    jp:title "Torah Commentary" .
+
+jp:BookoftheBeginningofWisdom a jp:HistoricalWork ;
+    jp:title "Book of the Beginning of Wisdom" .
+
+jp:BookoftheJudgmentsoftheZodiacalSigns a jp:HistoricalWork ;
+    jp:title "Book of the Judgments of the Zodiacal Signs" .
+
+jp:LiberNativitatum a jp:HistoricalWork ;
+    jp:title "Liber Nativitatum" .
+
+jp:LiberAbrahamIudeideNativitatibus a jp:HistoricalWork ;
+    jp:title "Liber Abraham Iudei de Nativitatibus" .
+
+jp:LiberElectionum a jp:HistoricalWork ;
+    jp:title "Liber Electionum" .
+
+jp:LiberInterrogationum a jp:HistoricalWork ;
+    jp:title "Liber Interrogationum" .
+
+jp:TractatusParticulares a jp:HistoricalWork ;
+    jp:title "Tractatus Particulares" .
+
+jp:TorahCommentaries a jp:HistoricalWork ;
+    jp:title "Torah Commentaries" .
+
+jp:Qohelet a jp:HistoricalWork ;
+    jp:title "Qohelet" .
+
+jp:SecretoftheTwelve a jp:HistoricalWork ;
+    jp:title "Secret of the Twelve" .
+
+jp:KitabKifayatalʽĀbidin a jp:HistoricalWork ;
+    jp:title "Kitāb Kifāyat al-ʽĀbidīn" .
+
+jp:IḥyaʽUlūmalDin a jp:HistoricalWork ;
+    jp:title "Iḥyā’ ʽUlūm al-Dīn" .
+
+jp:QoheletEcclesiastes a jp:HistoricalWork ;
+    jp:title "Qohelet (Ecclesiastes)" .
+
+jp:ArabicCommentaryonLamentations a jp:HistoricalWork ;
+    jp:title "Arabic Commentary on Lamentations" .
+
+jp:SegullatMelakhim a jp:HistoricalWork ;
+    jp:title "Segullat Melakhim" .
+
+jp:AristotelianSyllogism a jp:HistoricalWork ;
+    jp:title "Aristotelian Syllogism" .
+
+jp:TheLawofReasonintheKuzari a jp:HistoricalWork ;
+    jp:title "The Law of Reason in the Kuzari" .
+
+jp:Kuzari a jp:HistoricalWork ;
+    jp:title "Kuzari" .
+
+jp:SeferhaKuzari11 a jp:HistoricalWork ;
+    jp:title "Sefer ha-Kuzari 1:1" .
+
+jp:Dialoghi a jp:HistoricalWork ;
+    jp:title "Dialoghi" .
+
+jp:SeferhaKuzari a jp:HistoricalWork ;
+    jp:title "Sefer ha-Kuzari" .
+
+jp:TheKuzari a jp:HistoricalWork ;
+    jp:title "The Kuzari" .
+
+jp:Astronomy a jp:HistoricalWork ;
+    jp:title "Astronomy" .
+
+jp:ScrolloftheRevealer a jp:HistoricalWork ;
+    jp:title "Scroll of the Revealer" .
+
+jp:LogicadiAristotele a jp:HistoricalWork ;
+    jp:title "Logica di Aristotele" .
+
+jp:Tavoleastronomiche a jp:HistoricalWork ;
+    jp:title "Tavole astronomiche" .
+
+jp:Quaestiosollemnisdeunitateuniversalis a jp:HistoricalWork ;
+    jp:title "Quaestio sollemnis de unitate universalis" .
+
+jp:Quaestiodeunitateuniversalis a jp:HistoricalWork ;
+    jp:title "Quaestio de unitate universalis" .
+
+jp:MostradordeJusticia a jp:HistoricalWork ;
+    jp:title "Mostrador de Justicia" .
+
+jp:CommentaryonSeferYetsira a jp:HistoricalWork ;
+    jp:title "Commentary on Sefer Yetsira" .
+
+jp:KitâbalAmânât a jp:HistoricalWork ;
+    jp:title "Kitâb al-Amânât" .
+
+jp:Derekh‘emunah a jp:HistoricalWork ;
+    jp:title "Derekh ‘emunah" .
+
+jp:CommentaryonAristotlesMetaphysics a jp:HistoricalWork ;
+    jp:title "Commentary on Aristotle’s Metaphysics" .
+
+jp:haEmunahhaRamah a jp:HistoricalWork ;
+    jp:title "ha-Emunah ha-Ramah" .
+
+jp:NecessaryExistent a jp:HistoricalWork ;
+    jp:title "Necessary Existent" .
+
+jp:Psalm139 a jp:HistoricalWork ;
+    jp:title "Psalm 139" .
+
+jp:Genesis111114120 a jp:HistoricalWork ;
+    jp:title "Genesis 1:11, 1:14, 1:20" .
+
+jp:CommentaryonEcclesiastes a jp:HistoricalWork ;
+    jp:title "Commentary on Ecclesiastes" .
+
+jp:MaamarYikavuHaMayim a jp:HistoricalWork ;
+    jp:title "Ma’amar Yikavu Ha’Mayim" .
+
+jp:MaamarYiqawuhaMayim a jp:HistoricalWork ;
+    jp:title "Ma’amar Yiqawu ha-Mayim" .
+
+jp:PerushQohelet a jp:HistoricalWork ;
+    jp:title "Perush Qohelet" .
+
+jp:MiddleCommentaryonAristotlesMetaphysics a jp:HistoricalWork ;
+    jp:title "Middle Commentary on Aristotle’s Metaphysics" .
+
+jp:MilhamothaShemLibrosestoParteprimacapXI a jp:HistoricalWork ;
+    jp:title "Milhamot ha-Shem, Libro sesto, Parte prima, cap. XI" .
+
+jp:Meteorology a jp:HistoricalWork ;
+    jp:title "Meteorology" .
+
+jp:WarsoftheLord a jp:HistoricalWork ;
+    jp:title "Wars of the Lord" .
+
+jp:BookofAnimals a jp:HistoricalWork ;
+    jp:title "Book of Animals" .
+
+jp:Toaliyot a jp:HistoricalWork ;
+    jp:title "Toʿaliyot" .
+
+jp:MilḥamotHaShem a jp:HistoricalWork ;
+    jp:title "Milḥamot Ha-Shem" .
+
+jp:GuerresduSeigneur a jp:HistoricalWork ;
+    jp:title "Guerres du Seigneur" .
+
+jp:Opuscolisullafelicitàmentale a jp:HistoricalWork ;
+    jp:title "Opuscoli sulla felicità mentale" .
+
+jp:Deanima a jp:HistoricalWork ;
+    jp:title "De anima" .
+
+jp:ParaphraseofAristotlesMetaphysics12 a jp:HistoricalWork ;
+    jp:title "Paraphrase of Aristotle’s Metaphysics 12" .
+
+jp:AristotleMetaphysics12 a jp:HistoricalWork ;
+    jp:title "Aristotle Metaphysics 12" .
+
+jp:Poetics a jp:HistoricalWork ;
+    jp:title "Poetics" .
+
+jp:CommentomedioallaMetafisica a jp:HistoricalWork ;
+    jp:title "Commento medio alla Metafisica" .
+
+jp:FaṣlalMaqal a jp:HistoricalWork ;
+    jp:title "Faṣl al-Maqāl" .
+
+jp:Beḥinathadat a jp:HistoricalWork ;
+    jp:title "Beḥinat ha-dat" .
+
 jp:FonsVitae a jp:HistoricalWork ;
-    jp:title "Fons Vitae (Meqor hayyim)" ;
-    jp:writtenBy jp:SolomonIbnGabirol .
+    jp:title "Fons Vitae" .
 
-jp:FonteDellaVita a jp:HistoricalWork ;
-    jp:title "Fonte della vita" ;
-    jp:writtenBy jp:SolomonIbnGabirol .
+jp:DeGenerationeAnimalium a jp:HistoricalWork ;
+    jp:title "De Generatione Animalium" .
 
-### Yehudah Messer Leon
-jp:CommentaryOnAristotlePhysics a jp:HistoricalWork ;
-    jp:title "Commentary on Aristotle’s Physics" ;
-    jp:writtenBy jp:YehudahMesserLeon .
+jp:MetaphysicsDelta a jp:HistoricalWork ;
+    jp:title "Metaphysics Delta" .
+
+jp:LongCommentaryonAristotlesMetaphysics a jp:HistoricalWork ;
+    jp:title "Long Commentary on Aristotle's Metaphysics" .
+
+jp:LongCommentaryonAristotlesMetaphysics a jp:HistoricalWork ;
+    jp:title "Long Commentary on Aristotle’s Metaphysics" .
+
+jp:MiddleCommentaryonBookIoftheNicomacheanEthics a jp:HistoricalWork ;
+    jp:title "Middle Commentary on Book I of the Nicomachean Ethics" .
+
+jp:DecisiveTreatise a jp:HistoricalWork ;
+    jp:title "Decisive Treatise" .
+
+jp:TreatiseonDivineKnowledge a jp:HistoricalWork ;
+    jp:title "Treatise on Divine Knowledge" .
+
+jp:MetaphysicsΔ a jp:HistoricalWork ;
+    jp:title "Metaphysics Δ" .
+
+jp:MiddleCommentary a jp:HistoricalWork ;
+    jp:title "Middle Commentary" .
+
+jp:MethodofCommentingontheCommentator a jp:HistoricalWork ;
+    jp:title "Method of Commenting on the Commentator" .
+
+jp:MiddleCommentaryonAristotlesTopica a jp:HistoricalWork ;
+    jp:title "Middle Commentary on Aristotle’s Topica" .
+
+jp:LivyatHen a jp:HistoricalWork ;
+    jp:title "Livyat Hen" .
+
+jp:EzerhaDat a jp:HistoricalWork ;
+    jp:title "Ezer ha-Dat" .
+
+jp:TeshuvatApikoros a jp:HistoricalWork ;
+    jp:title "Teshuvat Apikoros" .
+
+jp:EzerhaDat a jp:HistoricalWork ;
+    jp:title "ʿEzer ha-Dat" .
+
+jp:TešuvatEpiqoros a jp:HistoricalWork ;
+    jp:title "Tešuvat Epiqoros" .
+
+jp:Quaestiodeefficientiamundi a jp:HistoricalWork ;
+    jp:title "Quaestio de efficientia mundi" .
+
+jp:DeNervisetSensuTactus a jp:HistoricalWork ;
+    jp:title "De Nervis et Sensu Tactus" .
+
+jp:SeferhaShir a jp:HistoricalWork ;
+    jp:title "Sefer ha-Shir" .
+
+jp:‘SodHaKaddish a jp:HistoricalWork ;
+    jp:title "‘Sod Ha-Kaddish’" .
+
+jp:Metaphysics a jp:HistoricalWork ;
+    jp:title "Metaphysics" .
+
+jp:PosteriorAnalytics a jp:HistoricalWork ;
+    jp:title "Posterior Analytics" .
+
+jp:TheDefinitionofFever a jp:HistoricalWork ;
+    jp:title "The Definition of Fever" .
+
+jp:BookofPrinciples a jp:HistoricalWork ;
+    jp:title "Book of Principles" .
+
+jp:MidrashhaHokhmah a jp:HistoricalWork ;
+    jp:title "Midrash ha-Hokhmah" .
+
+jp:Midrashhaḥokmah a jp:HistoricalWork ;
+    jp:title "Midrash ha-ḥokmah" .
+
+jp:NicomacheanEthics a jp:HistoricalWork ;
+    jp:title "Nicomachean Ethics" .
+
+jp:EbenHa‘Ezer a jp:HistoricalWork ;
+    jp:title "Eben Ha-‘Ezer" .
+
+jp:Sermons a jp:HistoricalWork ;
+    jp:title "Sermons" .
+
+jp:NefuṣotYehudah a jp:HistoricalWork ;
+    jp:title "Nefuṣot Yehudah" .
+
+jp:CommentaryonPhysics14 a jp:HistoricalWork ;
+    jp:title "Commentary on Physics 1-4" .
+
+jp:CommentaryonAristotlesPhysics a jp:HistoricalWork ;
+    jp:title "Commentary on Aristotle’s Physics" .
+
+jp:CommentariesonJonah a jp:HistoricalWork ;
+    jp:title "Commentaries on Jonah" .
+
+jp:TheSongofSongs a jp:HistoricalWork ;
+    jp:title "The Song of Songs" .
+
+jp:TreatiseoftheGarden a jp:HistoricalWork ;
+    jp:title "Treatise of the Garden" .
+
+jp:Ma‛aseNissim a jp:HistoricalWork ;
+    jp:title "Ma‛ase Nissim" .
+
+jp:PugioFidei a jp:HistoricalWork ;
+    jp:title "Pugio Fidei" .
+
+jp:DiePhilosophiedesJudentums a jp:HistoricalWork ;
+    jp:title "Die Philosophie des Judentums" .
+
+jp:DutiesoftheHeart a jp:HistoricalWork ;
+    jp:title "Duties of the Heart" .
+
+jp:PoliticalPhilosophy a jp:HistoricalWork ;
+    jp:title "Political Philosophy" .
+
+jp:SalvationAlNajat a jp:HistoricalWork ;
+    jp:title "Salvation (Al-Najāt)" .
+
+jp:Zoology a jp:HistoricalWork ;
+    jp:title "Zoology" .
+
+jp:DeInterpretatione16a38 a jp:HistoricalWork ;
+    jp:title "De Interpretatione 16a3-8" .
+
+jp:EN651140b1617 a jp:HistoricalWork ;
+    jp:title "EN 6.5.1140b16-17" .
+
+jp:Metaphysicsαἔλλαττον a jp:HistoricalWork ;
+    jp:title "Metaphysics α ἔλλαττον" .
+
+jp:Degenerationeetcorruptione a jp:HistoricalWork ;
+    jp:title "De generatione et corruptione" .
+
+jp:physics a jp:HistoricalWork ;
+    jp:title "physics" .
+
+jp:Deenteetessentia a jp:HistoricalWork ;
+    jp:title "De ente et essentia" .
+
+jp:MalmadhaTalmidim a jp:HistoricalWork ;
+    jp:title "Malmad ha-Talmidim" .
+
+jp:MaimonideanControversy a jp:HistoricalWork ;
+    jp:title "Maimonidean Controversy" .
+
+jp:alKitabalKhazari a jp:HistoricalWork ;
+    jp:title "al-Kitāb al-Khazarī" .
+
+jp:DieVollendungderSeele a jp:HistoricalWork ;
+    jp:title "Die Vollendung der Seele" .
+
+jp:Tagmulehanefesh a jp:HistoricalWork ;
+    jp:title "Tagmule ha-nefesh" .
+
+jp:DialoguesofLove a jp:HistoricalWork ;
+    jp:title "Dialogues of Love" .
+
+jp:JewishNeoplatonists a jp:HistoricalWork ;
+    jp:title "Jewish Neoplatonists" .
+
+jp:SongofSongs a jp:HistoricalWork ;
+    jp:title "Song of Songs" .
+
+jp:DeunitateuniversalisMaamarnikhbadbakolel a jp:HistoricalWork ;
+    jp:title "De unitate universalis – Ma’amar nikhbad ba-kolel" .
+
+jp:SeferRuahḤen a jp:HistoricalWork ;
+    jp:title "Sefer Ruah Ḥen" .
+
+jp:TheologicalPoliticalTreatise a jp:HistoricalWork ;
+    jp:title "Theological-Political Treatise" .
+
+jp:Epistles a jp:HistoricalWork ;
+    jp:title "Epistles" .
+
+jp:PhilosophicalPsychology a jp:HistoricalWork ;
+    jp:title "Philosophical Psychology" .
+
+jp:MedievalJewishChristianPolemic a jp:HistoricalWork ;
+    jp:title "Medieval Jewish-Christian Polemic" .
+
+jp:BibleExegesis a jp:HistoricalWork ;
+    jp:title "Bible Exegesis" .
+
+jp:Talmud a jp:HistoricalWork ;
+    jp:title "Talmud" .
+
+jp:MaimonideanPhilosophy a jp:HistoricalWork ;
+    jp:title "Maimonidean Philosophy" .
+
+jp:LeguerredelSignoreMilhamothaShem a jp:HistoricalWork ;
+    jp:title "Le guerre del Signore (Milhamot ha-Shem)" .
+
+jp:DalâlatalḤâirînGuidedeségarés a jp:HistoricalWork ;
+    jp:title "Dalâlat al-Ḥâ’irîn (Guide des égarés)" .
+
+jp:MaimonideanSchoolofProvence a jp:HistoricalWork ;
+    jp:title "Maimonidean School of Provence" .
+
+jp:BTBerachoth33b a jp:HistoricalWork ;
+    jp:title "BT Berachoth 33b" .
+
+jp:DieHebraeischenUebersetzungendesMittelalter a jp:HistoricalWork ;
+    jp:title "Die Hebraeischen Uebersetzungen des Mittelalter" .
+
+jp:AhavahbaTaanugim a jp:HistoricalWork ;
+    jp:title "Ahavah ba-Taʿanugim" .
+
+jp:SeferBeḥinathaDat a jp:HistoricalWork ;
+    jp:title "Sefer Beḥinat ha-Dat" .
+
+jp:Torah a jp:HistoricalWork ;
+    jp:title "Torah" .
+
+jp:Deuteronomy a jp:HistoricalWork ;
+    jp:title "Deuteronomy" .
+
+jp:Zohar a jp:HistoricalWork ;
+    jp:title "Zohar" .
+
+jp:HaEmunahhaRamah a jp:HistoricalWork ;
+    jp:title "Ha-Emunah ha-Ramah" .
+
+jp:HaEmunahhaNissah a jp:HistoricalWork ;
+    jp:title "Ha-Emunah ha-Niss’ah" .
+
+jp:ProfaytDuran a jp:HistoricalWork ;
+    jp:title "Profayt Duran" .
+
+jp:guidetotheperplexed a jp:HistoricalWork ;
+    jp:title "guide to the perplexed" .
+
+jp:TheBindingofIsaac a jp:HistoricalWork ;
+    jp:title "The Binding of Isaac" .
+
+jp:GuideforthePerplexed224 a jp:HistoricalWork ;
+    jp:title "Guide for the Perplexed 2.24" .
+
+jp:Exhalations a jp:HistoricalWork ;
+    jp:title "Exhalations" .
+
+jp:SeferAhavah a jp:HistoricalWork ;
+    jp:title "Sefer Ahavah" .
+
+jp:MedievalKaraism a jp:HistoricalWork ;
+    jp:title "Medieval Karaism" .
+
+jp:GentileScience a jp:HistoricalWork ;
+    jp:title "Gentile Science" .
+
+jp:MedievalHebrewLogic a jp:HistoricalWork ;
+    jp:title "Medieval Hebrew Logic" .
+
+jp:ChristianScholasticism a jp:HistoricalWork ;
+    jp:title "Christian Scholasticism" .
+
+jp:Politics a jp:HistoricalWork ;
+    jp:title "Politics" .
+
+jp:State a jp:HistoricalWork ;
+    jp:title "State" .
+
+jp:MedievalJewishCommentaries a jp:HistoricalWork ;
+    jp:title "Medieval Jewish Commentaries" .
+
+jp:MedievalJewishThought a jp:HistoricalWork ;
+    jp:title "Medieval Jewish Thought" .
+
+jp:HebrewAristotelianism a jp:HistoricalWork ;
+    jp:title "Hebrew Aristotelianism" .
+
+jp:Porphyry a jp:HistoricalWork ;
+    jp:title "Porphyry" .
+
