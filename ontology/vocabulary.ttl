@@ -160,6 +160,13 @@ jp:relatedPlace a owl:ObjectProperty ;
 # DATATYPE PROPERTIES
 #######################################################################
 
+
+jp:workID a owl:DatatypeProperty ;
+    rdfs:label "Work ID" ;
+    rdfs:domain jp:HistoricalWork ;
+    rdfs:range xsd:string ;
+    rdfs:comment "Unique internal identifier for a historical work, e.g., W_001." .
+
 jp:title a owl:DatatypeProperty ;
     rdfs:label "title" ;
     rdfs:domain [ owl:unionOf ( jp:HistoricalWork jp:ScholarlyWork ) ] ;
