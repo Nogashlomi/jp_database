@@ -254,7 +254,6 @@ jp:Q4256415_P569 a jp:TimeRelation ;
     jp:timeType "P569" .
 
 jp:Q4256415_P570 a jp:TimeRelation ;
-    jp:timeFrom "http://www.wikidata.org/.well-known/genid/4415e939049e493516cac78ecb6b6bb7"^^xsd:gYear ;
     jp:timeType "P570" .
 
 jp:Q465763_P569 a jp:TimeRelation ;
@@ -288,7 +287,6 @@ jp:Q56063581_P569 a jp:TimeRelation ;
     jp:timeType "P569" .
 
 jp:Q56063581_P570 a jp:TimeRelation ;
-    jp:timeFrom "http://www.wikidata.org/.well-known/genid/21f0338798030d406526d50ae42858b0"^^xsd:gYear ;
     jp:timeType "P570" .
 
 jp:Q639821_P569 a jp:TimeRelation ;
@@ -346,11 +344,9 @@ jp:Q8011_P570 a jp:TimeRelation ;
     jp:timeType "P570" .
 
 jp:Q868_P569 a jp:TimeRelation ;
-    jp:timeFrom "-038"^^xsd:gYear ;
     jp:timeType "P569" .
 
 jp:Q868_P570 a jp:TimeRelation ;
-    jp:timeFrom "-032"^^xsd:gYear ;
     jp:timeType "P570" .
 
 jp:Q9438_P569 a jp:TimeRelation ;

@@ -46,7 +46,6 @@ jp:H_438 a jp:ScholarlyWork ;
 jp:H_934 a jp:ScholarlyWork ;
     jp:creatorName "C. H. Manekin" ;
     jp:title "Maimonides on Joseph ibn Jābir’s Ultimate Happiness" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_934" .
 
 jp:H_586 a jp:ScholarlyWork ;
@@ -82,7 +81,6 @@ jp:H_1039 a jp:ScholarlyWork ;
 jp:H_665 a jp:ScholarlyWork ;
     jp:creatorName "Y. Schwartz" ;
     jp:title "Dominicus Gundissalinus (wrongly attributed to Boethius): Maamar ha-eḥad ve-ha-aḥdut (De unitate et uno)" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_665" .
 
 jp:H_432 a jp:ScholarlyWork ;
@@ -148,25 +146,21 @@ jp:H_802 a jp:ScholarlyWork ;
 jp:H_663 a jp:ScholarlyWork ;
     jp:creatorName "Y. Schwartz" ;
     jp:title "The Medieval Hebrew Translations of Dominicus Gundissalinus" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_663" .
 
 jp:H_664 a jp:ScholarlyWork ;
     jp:creatorName "Y. Schwartz" ;
     jp:title "Dominicus Gundissalinus: Sefer ha-nefeš (Tractatus de anima)" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_664" .
 
 jp:H_665 a jp:ScholarlyWork ;
     jp:creatorName "Y. Schwartz" ;
     jp:title "Dominicus Gundissalinus (wrongly attributed to Boethius): Maamar ha-eḥad ve-ha-aḥdut (De unitate et uno)" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_665" .
 
 jp:H_582 a jp:ScholarlyWork ;
     jp:creatorName "N. Polloni" ;
     jp:title "Toledan Ontologies: Gundissalinus, Ibn Daud, and the Problems of Gabirolian Hylomorphism" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_582" .
 
 jp:H_740 a jp:ScholarlyWork ;
@@ -178,7 +172,6 @@ jp:H_740 a jp:ScholarlyWork ;
 jp:H_970 a jp:ScholarlyWork ;
     jp:creatorName "S. Sadik" ;
     jp:title "Daniel J. Lasker and His Treatment of Jewish Polemics" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_970" .
 
 jp:H_62 a jp:ScholarlyWork ;
@@ -1420,271 +1413,226 @@ jp:H_921 a jp:ScholarlyWork ;
 jp:H_282 a jp:ScholarlyWork ;
     jp:creatorName "L.E. Goodman" ;
     jp:title "Bahya and Maimonides on the Worth of Medicine" ;
-    jp:year " "^^xsd:gYear ;
     jp:label "H_282" .
 
 jp:H_404 a jp:ScholarlyWork ;
     jp:creatorName "K. Seeskin" ;
     jp:title "Maimonides on Creation" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_404" .
 
 jp:H_415 a jp:ScholarlyWork ;
     jp:creatorName "R. Weiss" ;
     jp:title "Comment on Seeskin and Kreisel’s Essays on Maimonides on Creation" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_415" .
 
 jp:H_102 a jp:ScholarlyWork ;
     jp:creatorName "Francesca Albertini" ;
     jp:title "Emmanuel Levinas’ Theological-Political Interpretation of Moses Maimonides" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_102" .
 
 jp:H_103 a jp:ScholarlyWork ;
     jp:creatorName "Seymour Feldman" ;
     jp:title "Maimonides – A Guide for Posterity" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_103" .
 
 jp:H_104 a jp:ScholarlyWork ;
     jp:creatorName "Gad Freudenthal" ;
     jp:title "Maimonides’ Philosophy of Science" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_104" .
 
 jp:H_105 a jp:ScholarlyWork ;
     jp:creatorName "Warren Zev Harvey" ;
     jp:title "De la notion d’intellect-intelligent-intelligible chez Maïmonide" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_105" .
 
 jp:H_106 a jp:ScholarlyWork ;
     jp:creatorName "Hannah Kasher" ;
     jp:title "Maimonides: Halakhic Philosopher or Philosophical Halakhist?" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_106" .
 
 jp:H_107 a jp:ScholarlyWork ;
     jp:creatorName "Menachem Kellner" ;
     jp:title "Steven Schwarzschild, Moses Maimonides, and ‘Jewish Non-Jews’" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_107" .
 
 jp:H_266 a jp:ScholarlyWork ;
     jp:creatorName "R. Fontaine" ;
     jp:title "Was Maimonides an Epigone?" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_266" .
 
 jp:H_335 a jp:ScholarlyWork ;
     jp:creatorName "M. Kozodoy" ;
     jp:title "No Perpetual Enemies: Maimonideanism in the Fifteenth Century" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_335" .
 
 jp:H_336 a jp:ScholarlyWork ;
     jp:creatorName "H. Kreisel" ;
     jp:title "From Esotericism to Science: The Account of the Chariot in Maimonidean Philosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_336" .
 
 jp:H_337 a jp:ScholarlyWork ;
     jp:creatorName "H. Kreisel" ;
     jp:title "Maimonides on the Eternity of the World" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_337" .
 
 jp:H_528 a jp:ScholarlyWork ;
     jp:creatorName "G.K. Hasselhoff" ;
     jp:title "Zur Maimonidesrezeption in der christlich-lateinischen Literatur" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_528" .
 
 jp:H_69 a jp:ScholarlyWork ;
     jp:creatorName "Alfred Ivry" ;
     jp:title "Salomon Munk and the Science of Judaism Meet Maimonides’ Guide of the Perplexed" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_69" .
 
 jp:H_70 a jp:ScholarlyWork ;
     jp:creatorName "Alfred Ivry" ;
     jp:title "The Guide and Maimonides’ Philosophical Sources" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_70" .
 
 jp:H_71 a jp:ScholarlyWork ;
     jp:creatorName "Sara Klein-Braslavy" ;
     jp:title "Maimonides’ Strategy for Interpreting ‘Woman’ in the Guide of the Perplexed" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_71" .
 
 jp:H_853 a jp:ScholarlyWork ;
     jp:creatorName "S. Harvey" ;
     jp:title "Key Terms in Translations of Maimonides’ Guide of the Perplexed" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_853" .
 
 jp:H_926 a jp:ScholarlyWork ;
     jp:creatorName "D. Lemler" ;
     jp:title "The Sceptical Exegesis of Maimonides and His Followers" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_926" .
 
 jp:H_953 a jp:ScholarlyWork ;
     jp:creatorName "A. Ravitsky" ;
     jp:title "Maimonides’ Linguistic Thought, and its Greek, Islamic, and Jewish Background" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_953" .
 
 jp:H_114 a jp:ScholarlyWork ;
     jp:creatorName "Idit Dobbs-Weinstein" ;
     jp:title "Tensions Within and Between Maimonides’ and Gersonides’ Accounts of Prophecy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_114" .
 
 jp:H_115 a jp:ScholarlyWork ;
     jp:creatorName "Alfred Ivry" ;
     jp:title "The Two Solomons and the Guide of the Perplexed" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_115" .
 
 jp:H_1016 a jp:ScholarlyWork ;
     jp:creatorName "R. C. Taylor" ;
     jp:title "Maimonides and Aquinas on Divine Attributes: The Importance of Avicenna" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_1016" .
 
 jp:H_1030 a jp:ScholarlyWork ;
     jp:creatorName "D. Xiuyuan" ;
     jp:title "From Tranquillity to Extra Effort: Some Notes on the Introduction and Conclusion of Maimonides’ Guide of the Perplexed" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_1030" .
 
 jp:H_249 a jp:ScholarlyWork ;
     jp:creatorName "H. Davidson" ;
     jp:title "Maimonides and Samuel ben Eli" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_249" .
 
 jp:H_318 a jp:ScholarlyWork ;
     jp:creatorName "A. Ivry" ;
     jp:title "Maimonides’ Psychology" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_318" .
 
 jp:H_325 a jp:ScholarlyWork ;
     jp:creatorName "M. Kellner" ;
     jp:title "Philosophical Themes in Maimonides’ Sefer Ahavah" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_325" .
 
 jp:H_359 a jp:ScholarlyWork ;
     jp:creatorName "C.H. Manekin" ;
     jp:title "Comments on Professor Kreisel’s Paper [on Maimonides on the Eternity of the World]" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_359" .
 
 jp:H_370 a jp:ScholarlyWork ;
     jp:creatorName "A. Melamed" ;
     jp:title "Maimonides’ Thirteen Principles: From Elith to Popular Culture" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_370" .
 
 jp:H_380 a jp:ScholarlyWork ;
     jp:creatorName "J. Puig Montada" ;
     jp:title "Ḥasday ha-Sefardi and the Maimonidean Apocrypha" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_380" .
 
 jp:H_388 a jp:ScholarlyWork ;
     jp:creatorName "J.T. Robinson" ;
     jp:title "We Drink only from the Master’s Water: Maimonides and Maimonideanism in Southern France, 1200-1306" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_388" .
 
 jp:H_395 a jp:ScholarlyWork ;
     jp:creatorName "D. Schwartz" ;
     jp:title "Maimonides in Religious-Zionist Philosophy: Unity vs. Duality" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_395" .
 
 jp:H_610 a jp:ScholarlyWork ;
     jp:creatorName "S. Nadler" ;
     jp:title "Virtue, Reason, and Moral Luck: Maimonides, Gersonides, Spinoza" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_610" .
 
 jp:H_863 a jp:ScholarlyWork ;
     jp:creatorName "W. Z. Harvey" ;
     jp:title "Maimonides’ Critique of Anthropocentrism and Teleology" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_863" .
 
 jp:H_873 a jp:ScholarlyWork ;
     jp:creatorName "W. Z. Harvey" ;
     jp:title "Maimonides, Crescas, and the Parable of the Castle" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_873" .
 
 jp:H_881 a jp:ScholarlyWork ;
     jp:creatorName "H. Kasher" ;
     jp:title "Maimonides on the Intellects of Women and Gentiles" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_881" .
 
 jp:H_882 a jp:ScholarlyWork ;
     jp:creatorName "H. Kasher; A. Malachi" ;
     jp:title "On the Certainty of Tradition: Maimonides versus Ibn Daud" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_882" .
 
 jp:H_909 a jp:ScholarlyWork ;
     jp:creatorName "Y.T. Langermann" ;
     jp:title "Al-Ghazālī’s Purported Influence on Maimonides: A Dissenting View from ‘Trending’ Scholarship" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_909" .
 
 jp:H_934 a jp:ScholarlyWork ;
     jp:creatorName "C. H. Manekin" ;
     jp:title "Maimonides on Joseph ibn Jābir’s Ultimate Happiness" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_934" .
 
 jp:H_938 a jp:ScholarlyWork ;
     jp:creatorName "C. H. Manekin" ;
     jp:title "Maimonides on the Divine Authorship of the Law" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_938" .
 
 jp:H_939 a jp:ScholarlyWork ;
     jp:creatorName "C. H. Manekin" ;
     jp:title "Scepticism and Anti-Scepticism: The Case of Maimonides" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_939" .
 
 jp:H_954 a jp:ScholarlyWork ;
     jp:creatorName "A. Ravitsky" ;
     jp:title "Michael Schwarz’s Hebrew Translation of Maimonides’ The Guide of the Perplexed" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_954" .
 
 jp:H_959 a jp:ScholarlyWork ;
     jp:creatorName "J. T. Robinson" ;
     jp:title "On or Above the Ladder? Maimonidean and anti-Maimonidean Interpretations of Jacob’s Ladder" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_959" .
 
 jp:H_980 a jp:ScholarlyWork ;
     jp:creatorName "D. Schwartz" ;
     jp:title "The Passion for Metaphysics in Maimonides’ Thought" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_980" .
 
 jp:H_996 a jp:ScholarlyWork ;
     jp:creatorName "J. Stern" ;
     jp:title "Maimonides’ Modalities" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_996" .
 
 jp:H_1020 a jp:ScholarlyWork ;
@@ -1750,7 +1698,6 @@ jp:H_989 a jp:ScholarlyWork ;
 jp:H_998 a jp:ScholarlyWork ;
     jp:creatorName "J. Stern" ;
     jp:title "Where is Maimonides’ Logic?" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_998" .
 
 jp:H_124 a jp:ScholarlyWork ;
@@ -1912,13 +1859,11 @@ jp:H_774 a jp:ScholarlyWork ;
 jp:H_296 a jp:ScholarlyWork ;
     jp:creatorName "S. Harvey" ;
     jp:title "Shem-Tov Falaquera, a Paragon of an Epigone, and the Epigone’s Importance for the Study of Jewish Intellectual History" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_296" .
 
 jp:H_859 a jp:ScholarlyWork ;
     jp:creatorName "W. Z. Harvey" ;
     jp:title "Wolfson’s Pragmatic Crescas" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_859" .
 
 jp:H_837 a jp:ScholarlyWork ;
@@ -2044,13 +1989,11 @@ jp:H_765 a jp:ScholarlyWork ;
 jp:H_471 a jp:ScholarlyWork ;
     jp:creatorName "C.M. Neria" ;
     jp:title "Al-Fārābī’s Lost Commentary on The Ethics: New Textual Evidence" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_471" .
 
 jp:H_898 a jp:ScholarlyWork ;
     jp:creatorName "A. Lamprakis; D. Davies" ;
     jp:title "Delineating Dialectic: The Perfect Philosopher in al-Fārābī’s Commentary on Topics VIII 1" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_898" .
 
 jp:H_724 a jp:ScholarlyWork ;
@@ -2170,7 +2113,6 @@ jp:H_876 a jp:ScholarlyWork ;
 jp:H_458 a jp:ScholarlyWork ;
     jp:creatorName "A.L. Ivry" ;
     jp:title "Al-Ghazālī, Averroes and Moshe Narboni: Conflict and Conflation" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_458" .
 
 jp:H_677 a jp:ScholarlyWork ;
@@ -2272,7 +2214,6 @@ jp:H_611 a jp:ScholarlyWork ;
 jp:H_615 a jp:ScholarlyWork ;
     jp:creatorName "S. Pessin" ;
     jp:title "Ibn Gabirol’s Emanationism: On the Plotinian (v. Augustinian) Theology of “Divine Irāda”" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_615" .
 
 jp:H_202 a jp:ScholarlyWork ;
@@ -2320,7 +2261,6 @@ jp:H_697 a jp:ScholarlyWork ;
 jp:H_115 a jp:ScholarlyWork ;
     jp:creatorName "Alfred Ivry" ;
     jp:title "The Two Solomons and the Guide of the Perplexed" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_115" .
 
 jp:H_455 a jp:ScholarlyWork ;
@@ -2356,7 +2296,6 @@ jp:H_911 a jp:ScholarlyWork ;
 jp:H_706 a jp:ScholarlyWork ;
     jp:creatorName "Moses Narboni" ;
     jp:title "Commentary on Ibn Ṭufayl’s Ḥayy Ibn Yaqẓān" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_706" .
 
 jp:H_321 a jp:ScholarlyWork ;
@@ -2380,7 +2319,6 @@ jp:H_920 a jp:ScholarlyWork ;
 jp:H_633 a jp:ScholarlyWork ;
     jp:creatorName "S. Sela" ;
     jp:title "O corpus científico de Abraão ibn Ezra" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_633" .
 
 jp:H_5 a jp:ScholarlyWork ;
@@ -2656,7 +2594,6 @@ jp:H_204 a jp:ScholarlyWork ;
 jp:H_1 a jp:ScholarlyWork ;
     jp:creatorName "Steven Harvey; Charles Manekin" ;
     jp:title "The Curious Segullat Melakhim by Abraham Avigdor" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_1" .
 
 jp:H_955 a jp:ScholarlyWork ;
@@ -2668,7 +2605,6 @@ jp:H_955 a jp:ScholarlyWork ;
 jp:H_906 a jp:ScholarlyWork ;
     jp:creatorName "Y.T. Langermann" ;
     jp:title "Rabbi Yosef Qafih’s Modern Medieval Translation" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_906" .
 
 jp:H_463 a jp:ScholarlyWork ;
@@ -2794,7 +2730,6 @@ jp:H_815 a jp:ScholarlyWork ;
 jp:H_932 a jp:ScholarlyWork ;
     jp:creatorName "A. Malachi" ;
     jp:title "Scepticism at the Service of Revelation? Preliminary Observations on Logic and Epistemology in Judah Halevi’s Kuzari" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_932" .
 
 jp:H_722 a jp:ScholarlyWork ;
@@ -2812,7 +2747,6 @@ jp:H_911 a jp:ScholarlyWork ;
 jp:H_303 a jp:ScholarlyWork ;
     jp:creatorName "W.Z. Harvey" ;
     jp:title "Nicole Oresme and Ḥasdai Crescas on Many Worlds" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_303" .
 
 jp:H_991 a jp:ScholarlyWork ;
@@ -2860,7 +2794,6 @@ jp:H_775 a jp:ScholarlyWork ;
 jp:H_896 a jp:ScholarlyWork ;
     jp:creatorName "E. Krinis" ;
     jp:title "Abraham bar Ḥiyya (d. ca. 1136) on ‘The Pure Soul’" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_896" .
 
 jp:H_577 a jp:ScholarlyWork ;
@@ -3028,7 +2961,6 @@ jp:H_731 a jp:ScholarlyWork ;
 jp:H_1023 a jp:ScholarlyWork ;
     jp:creatorName "G. C. Weber" ;
     jp:title "Remarks on an Ambiguous Geometric Term in Saadya Gaon’s Book of Beliefs and Opinions" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_1023" .
 
 jp:H_721 a jp:ScholarlyWork ;
@@ -3052,7 +2984,6 @@ jp:H_661 a jp:ScholarlyWork ;
 jp:H_830 a jp:ScholarlyWork ;
     jp:creatorName "Y. Halper" ;
     jp:title "Abraham Bibago on the Logic of Divine Science: Metaphysics α and the Legend of the Pardes" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_830" .
 
 jp:H_658 a jp:ScholarlyWork ;
@@ -3124,19 +3055,16 @@ jp:H_868 a jp:ScholarlyWork ;
 jp:H_582 a jp:ScholarlyWork ;
     jp:creatorName "N. Polloni" ;
     jp:title "Toledan Ontologies: Gundissalinus, Ibn Daud, and the Problems of Gabirolian Hylomorphism" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_582" .
 
 jp:H_861 a jp:ScholarlyWork ;
     jp:creatorName "W. Z. Harvey" ;
     jp:title "The Puzzling Hebrew Translations of Ibn Daud’s Exalted Faith" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_861" .
 
 jp:H_882 a jp:ScholarlyWork ;
     jp:creatorName "H. Kasher; A. Malachi" ;
     jp:title "On the Certainty of Tradition: Maimonides versus Ibn Daud" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_882" .
 
 jp:H_128 a jp:ScholarlyWork ;
@@ -3442,97 +3370,81 @@ jp:H_816 a jp:ScholarlyWork ;
 jp:H_26 a jp:ScholarlyWork ;
     jp:creatorName "Sara Klein-Braslavy" ;
     jp:title "Gersonide commentateur d’Averroès; La méthode diaporématique de Gersonide dans les Guerres du Seigneur; Les commentaires bibliques - Les introductions; Structure de trois questions: Chapitres 1-5 du livre I des Guerres" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_26" .
 
 jp:H_27 a jp:ScholarlyWork ;
     jp:creatorName "Sara Klein-Braslavy" ;
     jp:title "Gersonides’ Methods of Inquiry in the Discussion on the Material Intellect in the Wars of the Lord" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_27" .
 
 jp:H_30 a jp:ScholarlyWork ;
     jp:creatorName "Gad Freudenthal" ;
     jp:title "Gersonide, génie solitaire" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_30" .
 
 jp:H_31 a jp:ScholarlyWork ;
     jp:creatorName "Ruth Glasner" ;
     jp:title "On the Question of Gersonides’ Acquaintance with Scholastic Philosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_31" .
 
 jp:H_32 a jp:ScholarlyWork ;
     jp:creatorName "Ruth Glasner" ;
     jp:title "On the Writing of Gersonides’ Philosophical Commentaries" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_32" .
 
 jp:H_33 a jp:ScholarlyWork ;
     jp:creatorName "Sara Klein-Braslavy; Colette Sirat" ;
     jp:title "Gersonide, homme de son temps" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_33" .
 
 jp:H_114 a jp:ScholarlyWork ;
     jp:creatorName "Idit Dobbs-Weinstein" ;
     jp:title "Tensions Within and Between Maimonides’ and Gersonides’ Accounts of Prophecy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_114" .
 
 jp:H_272 a jp:ScholarlyWork ;
     jp:creatorName "R. Gatti" ;
     jp:title "Between Maimonideanism and Averroism: Gersonides’ Place within the Maimonidean Paradigm" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_272" .
 
 jp:H_330 a jp:ScholarlyWork ;
     jp:creatorName "S. Klein-Braslavy" ;
     jp:title "Dialectic in Gersonides’ Biblical Commentaries" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_330" .
 
 jp:H_610 a jp:ScholarlyWork ;
     jp:creatorName "S. Nadler" ;
     jp:title "Virtue, Reason, and Moral Luck: Maimonides, Gersonides, Spinoza" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_610" .
 
 jp:H_842 a jp:ScholarlyWork ;
     jp:creatorName "Y. Halper" ;
     jp:title "The Sex Life of a Metaphysical Sceptic: Platonic Themes in Gersonides’ Commentary on Song of Songs" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_842" .
 
 jp:H_865 a jp:ScholarlyWork ;
     jp:creatorName "W. Z. Harvey" ;
     jp:title "Crescas’ Relationship to Gersonides" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_865" .
 
 jp:H_885 a jp:ScholarlyWork ;
     jp:creatorName "M. Kellner" ;
     jp:title "Censoring/‘Improving’ Gersonides: The Case of the Toʿalot" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_885" .
 
 jp:H_914 a jp:ScholarlyWork ;
     jp:creatorName "D. J. Lasker" ;
     jp:title "The Karaite Reception of Gersonides" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_914" .
 
 jp:H_936 a jp:ScholarlyWork ;
     jp:creatorName "C. H. Manekin" ;
     jp:title "‘Composition, Not Commentary’: Gersonides’ Commentary on the Isagoge of Porphyry and Its Afterlife" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_936" .
 
 jp:H_979 a jp:ScholarlyWork ;
     jp:creatorName "D. Schwartz" ;
     jp:title "Notes on Gersonides’ Place in Religious Zionist Thought" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_979" .
 
 jp:H_59 a jp:ScholarlyWork ;
@@ -3580,7 +3492,6 @@ jp:H_454 a jp:ScholarlyWork ;
 jp:H_937 a jp:ScholarlyWork ;
     jp:creatorName "C. H. Manekin" ;
     jp:title "Logic, Linguistic Custom, and the Quantification of the Predicate in Levi Gersonides" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_937" .
 
 jp:H_591 a jp:ScholarlyWork ;
@@ -3754,25 +3665,21 @@ jp:H_716 a jp:ScholarlyWork ;
 jp:H_674 a jp:ScholarlyWork ;
     jp:creatorName "Y.Y. Melamed" ;
     jp:title "Hasdai Crescas and Spinoza on Actual Infinity and the Infinity of God’s Attributes" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_674" .
 
 jp:H_469 a jp:ScholarlyWork ;
     jp:creatorName "C.H. Manekin" ;
     jp:title "Spinoza and the Hard Determinist Tradition in Jewish Philosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_469" .
 
 jp:H_610 a jp:ScholarlyWork ;
     jp:creatorName "S. Nadler" ;
     jp:title "Virtue, Reason, and Moral Luck: Maimonides, Gersonides, Spinoza" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_610" .
 
 jp:H_940 a jp:ScholarlyWork ;
     jp:creatorName "Y. Melamed" ;
     jp:title "Spinoza and Some of His Medieval Predecessors on the Summum Bonum" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_940" .
 
 jp:H_271 a jp:ScholarlyWork ;
@@ -3802,7 +3709,6 @@ jp:H_703 a jp:ScholarlyWork ;
 jp:H_943 a jp:ScholarlyWork ;
     jp:creatorName "Y. Meyrav" ;
     jp:title "Arabic-into-Hebrew Translation Strategies and Procedures in the Hebrew Manuscript Tradition of Themistius’ Paraphrase of Aristotle’s Metaphysics XII" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_943" .
 
 jp:H_999 a jp:ScholarlyWork ;
@@ -4090,37 +3996,31 @@ jp:H_813 a jp:ScholarlyWork ;
 jp:H_458 a jp:ScholarlyWork ;
     jp:creatorName "A.L. Ivry" ;
     jp:title "Al-Ghazālī, Averroes and Moshe Narboni: Conflict and Conflation" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_458" .
 
 jp:H_20 a jp:ScholarlyWork ;
     jp:creatorName "Steven Harvey" ;
     jp:title "Arabic into Hebrew: the Hebrew Translation Movement and the Influence of Averroes upon Medieval Jewish Thought" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_20" .
 
 jp:H_573 a jp:ScholarlyWork ;
     jp:creatorName "M. Zonta" ;
     jp:title "Averroes’ Interpretations of Aristotle’s Metaphysics and Their Different Receptions in the Hebrew Philosophical Tradition" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_573" .
 
 jp:H_264 a jp:ScholarlyWork ;
     jp:creatorName "R. Fontaine" ;
     jp:title "The Early Reception of Aristotle through Averroes in Medieval Jewish Philosophy: The Case of the Midrash ha-Hokhmah" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_264" .
 
 jp:H_290 a jp:ScholarlyWork ;
     jp:creatorName "S. Harvey" ;
     jp:title "Are the Medieval Hebrew Translations of Averroes’ Commentaries on Aristotle Still of Value and Worth Editing?" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_290" .
 
 jp:H_828 a jp:ScholarlyWork ;
     jp:creatorName "Y. Halper" ;
     jp:title "Happiness, Eros, and the Active Intellect: Understanding Erotic Desire in Averroes’ Long Commentary on Aristotle’s Metaphysics Λ in light of the Middle Commentary on the Nicomachean Ethics" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_828" .
 
 jp:H_553 a jp:ScholarlyWork ;
@@ -4396,7 +4296,6 @@ jp:H_765 a jp:ScholarlyWork ;
 jp:H_858 a jp:ScholarlyWork ;
     jp:creatorName "S. Harvey" ;
     jp:title "From Translator to Commentator: Ṭodros Ṭodrosi’s Presentation of Aristotle’s Organon" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_858" .
 
 jp:H_219 a jp:ScholarlyWork ;
@@ -4420,25 +4319,21 @@ jp:H_872 a jp:ScholarlyWork ;
 jp:H_963 a jp:ScholarlyWork ;
     jp:creatorName "T. M. Rudavsky" ;
     jp:title "Crescas on Time, Space, and Infinity" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_963" .
 
 jp:H_859 a jp:ScholarlyWork ;
     jp:creatorName "W. Z. Harvey" ;
     jp:title "Wolfson’s Pragmatic Crescas" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_859" .
 
 jp:H_865 a jp:ScholarlyWork ;
     jp:creatorName "W. Z. Harvey" ;
     jp:title "Crescas’ Relationship to Gersonides" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_865" .
 
 jp:H_873 a jp:ScholarlyWork ;
     jp:creatorName "W. Z. Harvey" ;
     jp:title "Maimonides, Crescas, and the Parable of the Castle" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_873" .
 
 jp:H_35 a jp:ScholarlyWork ;
@@ -4486,31 +4381,26 @@ jp:H_652 a jp:ScholarlyWork ;
 jp:H_674 a jp:ScholarlyWork ;
     jp:creatorName "Y.Y. Melamed" ;
     jp:title "Hasdai Crescas and Spinoza on Actual Infinity and the Infinity of God’s Attributes" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_674" .
 
 jp:H_1024 a jp:ScholarlyWork ;
     jp:creatorName "R. Weiss" ;
     jp:title "Hasdai Crescas’s Philosophical Biblical Exegesis" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_1024" .
 
 jp:H_300 a jp:ScholarlyWork ;
     jp:creatorName "W.Z. Harvey" ;
     jp:title "Hasdai Crescas’s Aristotle: Transmission, Translation, Transformation" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_300" .
 
 jp:H_862 a jp:ScholarlyWork ;
     jp:creatorName "W. Z. Harvey" ;
     jp:title "Hasdai Crescas’ Use of the ‘Happiness’" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_862" .
 
 jp:H_969 a jp:ScholarlyWork ;
     jp:creatorName "S. Sadik" ;
     jp:title "Philosophy and Religion in R. Crescas’s Light of the Lord" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_969" .
 
 jp:H_952 a jp:ScholarlyWork ;
@@ -4588,13 +4478,11 @@ jp:H_716 a jp:ScholarlyWork ;
 jp:H_303 a jp:ScholarlyWork ;
     jp:creatorName "W.Z. Harvey" ;
     jp:title "Nicole Oresme and Ḥasdai Crescas on Many Worlds" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_303" .
 
 jp:H_767 a jp:ScholarlyWork ;
     jp:creatorName "I. H. De Souza" ;
     jp:title "‘I feel love’: Ḥasdai Crescas on Reward and Punishment" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_767" .
 
 jp:H_36 a jp:ScholarlyWork ;
@@ -4606,7 +4494,6 @@ jp:H_36 a jp:ScholarlyWork ;
 jp:H_380 a jp:ScholarlyWork ;
     jp:creatorName "J. Puig Montada" ;
     jp:title "Ḥasday ha-Sefardi and the Maimonidean Apocrypha" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_380" .
 
 jp:H_341 a jp:ScholarlyWork ;
@@ -4702,13 +4589,11 @@ jp:H_251 a jp:ScholarlyWork ;
 jp:H_254 a jp:ScholarlyWork ;
     jp:creatorName "D. Ehrlich" ;
     jp:title "R. Joseph Albo’s Discussion of the Proofs for the Existence of God" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_254" .
 
 jp:H_45 a jp:ScholarlyWork ;
     jp:creatorName "Resianne Fontaine" ;
     jp:title "The Theme of the Three Worlds in Judah ben Solomon’s Midrash ha-Hokhmah" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_45" .
 
 jp:H_642 a jp:ScholarlyWork ;
@@ -4726,7 +4611,6 @@ jp:H_245 a jp:ScholarlyWork ;
 jp:H_244 a jp:ScholarlyWork ;
     jp:creatorName "M. Benedetto" ;
     jp:title "La divisione delle scienze nell’enciclopedismo ebraico medievale: filosofia naturale, scienze matematiche e scienza divina nell’introduzione al Midrash ha-hokmah di Yehudah ha-Cohen" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_244" .
 
 jp:H_425 a jp:ScholarlyWork ;
@@ -4762,7 +4646,6 @@ jp:H_472 a jp:ScholarlyWork ;
 jp:H_949 a jp:ScholarlyWork ;
     jp:creatorName "C. M. Neria" ;
     jp:title "Courage and Death: Aristotle, Aquinas and Joseph b. Shem-Ṭob" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_949" .
 
 jp:H_691 a jp:ScholarlyWork ;
@@ -4906,7 +4789,6 @@ jp:H_600 a jp:ScholarlyWork ;
 jp:H_249 a jp:ScholarlyWork ;
     jp:creatorName "H. Davidson" ;
     jp:title "Maimonides and Samuel ben Eli" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_249" .
 
 jp:H_991 a jp:ScholarlyWork ;
@@ -5002,7 +4884,6 @@ jp:H_130 a jp:ScholarlyWork ;
 jp:H_282 a jp:ScholarlyWork ;
     jp:creatorName "L.E. Goodman" ;
     jp:title "Bahya and Maimonides on the Worth of Medicine" ;
-    jp:year " "^^xsd:gYear ;
     jp:label "H_282" .
 
 jp:H_22 a jp:ScholarlyWork ;
@@ -5104,7 +4985,6 @@ jp:H_376 a jp:ScholarlyWork ;
 jp:H_870 a jp:ScholarlyWork ;
     jp:creatorName "W. Z. Harvey" ;
     jp:title "How to Begin to Study Strauss’s ‘How to Begin to Study the Guide of the Perplexed’" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_870" .
 
 jp:H_268 a jp:ScholarlyWork ;
@@ -5230,13 +5110,11 @@ jp:H_844 a jp:ScholarlyWork ;
 jp:H_1016 a jp:ScholarlyWork ;
     jp:creatorName "R. C. Taylor" ;
     jp:title "Maimonides and Aquinas on Divine Attributes: The Importance of Avicenna" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_1016" .
 
 jp:H_900 a jp:ScholarlyWork ;
     jp:creatorName "Y.T. Langermann" ;
     jp:title "Light, Exhilarants, and Healing the Spirit: Some Observations on Avicenna’s al-Adwiya al-Qalbiyya (Cardiac Drugs)" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_900" .
 
 jp:H_262 a jp:ScholarlyWork ;
@@ -5506,91 +5384,76 @@ jp:H_942 a jp:ScholarlyWork ;
 jp:H_421 a jp:ScholarlyWork ;
     jp:creatorName "M. Zonta" ;
     jp:title "Aristotle’s De anima and De generatione et corruptione in the Medieval Hebrew Tradition: New Details Regarding Textual History Coming from a Neglected Manuscript" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_421" .
 
 jp:H_421 a jp:ScholarlyWork ;
     jp:creatorName "M. Zonta" ;
     jp:title "Aristotle’s De anima and De generatione et corruptione in the Medieval Hebrew Tradition: New Details Regarding Textual History Coming from a Neglected Manuscript" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_421" .
 
 jp:H_12 a jp:ScholarlyWork ;
     jp:creatorName "Steven Harvey" ;
     jp:title "The Place of the De anima in the Orderly Study of Philosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_12" .
 
 jp:H_14 a jp:ScholarlyWork ;
     jp:creatorName "Ruth Glasner" ;
     jp:title "Textual Criticism in Hebrew Supercommentaries on Aristotle" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_14" .
 
 jp:H_280 a jp:ScholarlyWork ;
     jp:creatorName "R. Glasner" ;
     jp:title "The Peculiar History of Aristotelianism among Spanish Jews" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_280" .
 
 jp:H_839 a jp:ScholarlyWork ;
     jp:creatorName "Y. Halper" ;
     jp:title "Philosophical Commentary and Supercommentary: The Hebrew Aristotelean Commentaries of the 14th through 16th Centuries" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_839" .
 
 jp:H_573 a jp:ScholarlyWork ;
     jp:creatorName "M. Zonta" ;
     jp:title "Averroes’ Interpretations of Aristotle’s Metaphysics and Their Different Receptions in the Hebrew Philosophical Tradition" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_573" .
 
 jp:H_264 a jp:ScholarlyWork ;
     jp:creatorName "R. Fontaine" ;
     jp:title "The Early Reception of Aristotle through Averroes in Medieval Jewish Philosophy: The Case of the Midrash ha-Hokhmah" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_264" .
 
 jp:H_279 a jp:ScholarlyWork ;
     jp:creatorName "R. Glasner" ;
     jp:title "The Evolution of the Genre of the Philosophical-Scientific Commentary: the Hebrew Supercommentaries on Aristotle’s Physics" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_279" .
 
 jp:H_290 a jp:ScholarlyWork ;
     jp:creatorName "S. Harvey" ;
     jp:title "Are the Medieval Hebrew Translations of Averroes’ Commentaries on Aristotle Still of Value and Worth Editing?" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_290" .
 
 jp:H_300 a jp:ScholarlyWork ;
     jp:creatorName "W.Z. Harvey" ;
     jp:title "Hasdai Crescas’s Aristotle: Transmission, Translation, Transformation" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_300" .
 
 jp:H_828 a jp:ScholarlyWork ;
     jp:creatorName "Y. Halper" ;
     jp:title "Happiness, Eros, and the Active Intellect: Understanding Erotic Desire in Averroes’ Long Commentary on Aristotle’s Metaphysics Λ in light of the Middle Commentary on the Nicomachean Ethics" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_828" .
 
 jp:H_858 a jp:ScholarlyWork ;
     jp:creatorName "S. Harvey" ;
     jp:title "From Translator to Commentator: Ṭodros Ṭodrosi’s Presentation of Aristotle’s Organon" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_858" .
 
 jp:H_943 a jp:ScholarlyWork ;
     jp:creatorName "Y. Meyrav" ;
     jp:title "Arabic-into-Hebrew Translation Strategies and Procedures in the Hebrew Manuscript Tradition of Themistius’ Paraphrase of Aristotle’s Metaphysics XII" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_943" .
 
 jp:H_949 a jp:ScholarlyWork ;
     jp:creatorName "C. M. Neria" ;
     jp:title "Courage and Death: Aristotle, Aquinas and Joseph b. Shem-Ṭob" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_949" .
 
 jp:H_554 a jp:ScholarlyWork ;
@@ -5626,13 +5489,11 @@ jp:H_1035 a jp:ScholarlyWork ;
 jp:H_1016 a jp:ScholarlyWork ;
     jp:creatorName "R. C. Taylor" ;
     jp:title "Maimonides and Aquinas on Divine Attributes: The Importance of Avicenna" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_1016" .
 
 jp:H_949 a jp:ScholarlyWork ;
     jp:creatorName "C. M. Neria" ;
     jp:title "Courage and Death: Aristotle, Aquinas and Joseph b. Shem-Ṭob" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_949" .
 
 jp:H_141 a jp:ScholarlyWork ;
@@ -5674,7 +5535,6 @@ jp:H_958 a jp:ScholarlyWork ;
 jp:H_826 a jp:ScholarlyWork ;
     jp:creatorName "Y. Halper" ;
     jp:title "The Road to Hell is Paved with Good Philosophers: The Ladder of Knowledge in Immanuel of Rome’s Hell and Heaven" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_826" .
 
 jp:H_209 a jp:ScholarlyWork ;
@@ -5746,13 +5606,11 @@ jp:H_876 a jp:ScholarlyWork ;
 jp:H_458 a jp:ScholarlyWork ;
     jp:creatorName "A.L. Ivry" ;
     jp:title "Al-Ghazālī, Averroes and Moshe Narboni: Conflict and Conflation" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_458" .
 
 jp:H_909 a jp:ScholarlyWork ;
     jp:creatorName "Y.T. Langermann" ;
     jp:title "Al-Ghazālī’s Purported Influence on Maimonides: A Dissenting View from ‘Trending’ Scholarship" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_909" .
 
 jp:H_43 a jp:ScholarlyWork ;
@@ -5776,7 +5634,6 @@ jp:H_825 a jp:ScholarlyWork ;
 jp:H_595 a jp:ScholarlyWork ;
     jp:creatorName "R. Smithuis" ;
     jp:title "Preaching to his Daughter: Jacob Anatoli’s Goad for Students (Malmad ha-Talmidim)" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_595" .
 
 jp:H_729 a jp:ScholarlyWork ;
@@ -7480,456 +7337,380 @@ jp:H_995 a jp:ScholarlyWork ;
 jp:H_411 a jp:ScholarlyWork ;
     jp:creatorName "J. Stern" ;
     jp:title "Meaning and Language" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_411" .
 
 jp:H_439 a jp:ScholarlyWork ;
     jp:creatorName "M. Zonta" ;
     jp:title "Textual Traditions" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_439" .
 
 jp:H_406 a jp:ScholarlyWork ;
     jp:creatorName "K. Seeskin" ;
     jp:title "The Greek Background to Jewish Philosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_406" .
 
 jp:H_435 a jp:ScholarlyWork ;
     jp:creatorName "M. Zonta" ;
     jp:title "Medieval Hebrew Translations of Philosophical and Scientific Texts: A Chronological Table" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_435" .
 
 jp:H_431 a jp:ScholarlyWork ;
     jp:creatorName "M. Zonta" ;
     jp:title "Latin Scholastic Influences on Late Medieval Hebrew Physics: The State of the Art" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_431" .
 
 jp:H_1003 a jp:ScholarlyWork ;
     jp:creatorName "J. Stern" ;
     jp:title "Pines’ Agendas for Reading the Guide from 1963 to 1979" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_1003" .
 
 jp:H_871 a jp:ScholarlyWork ;
     jp:creatorName "W. Z. Harvey" ;
     jp:title "Michael Friedländers’s Pioneering English Translation of the Guide" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_871" .
 
 jp:H_1001 a jp:ScholarlyWork ;
     jp:creatorName "J. Stern" ;
     jp:title "Profayt Duran’s Maʿaseh Efod: The Philosophical Grammar of a Converso" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_1001" .
 
 jp:H_1002 a jp:ScholarlyWork ;
     jp:creatorName "J. Stern" ;
     jp:title "Introduction" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_1002" .
 
 jp:H_1007 a jp:ScholarlyWork ;
     jp:creatorName "S. Stroumsa" ;
     jp:title "Popularization of Philosophy via Books of Instruction: Introduction" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_1007" .
 
 jp:H_1014 a jp:ScholarlyWork ;
     jp:creatorName "S. Stroumsa" ;
     jp:title "The Elegance of Precision: On Pines’ Translation of the Literary Parts of the Guide" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_1014" .
 
 jp:H_1018 a jp:ScholarlyWork ;
     jp:creatorName "G. Veltri" ;
     jp:title "Happiness in Jewish-Hellenistic and Rabbinic Thought" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_1018" .
 
 jp:H_1025 a jp:ScholarlyWork ;
     jp:creatorName "T. Werthmann" ;
     jp:title "Myth and Metaphysics: The Popularization of Platonic and Neoplatonic Motifs through Kabbalistic Theosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_1025" .
 
 jp:H_1036 a jp:ScholarlyWork ;
     jp:creatorName "M. Zonta" ;
     jp:title "Philosophical Terms for ‘Happiness’ in Languages of Culture in Medieval Near, Middle and Far East" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_1036" .
 
 jp:H_188 a jp:ScholarlyWork ;
     jp:creatorName "Seymour Feldman" ;
     jp:title "The End and Aftereffects of Medieval Jewish Philosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_188" .
 
 jp:H_189 a jp:ScholarlyWork ;
     jp:creatorName "Steven Harvey" ;
     jp:title "Islamic Philosophy and Jewish Philosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_189" .
 
 jp:H_190 a jp:ScholarlyWork ;
     jp:creatorName "Warren Zev Harvey" ;
     jp:title "Three Theories of the Imagination in 12th-Century Jewish Philosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_190" .
 
 jp:H_191 a jp:ScholarlyWork ;
     jp:creatorName "Menachem Kellner" ;
     jp:title "Spiritual Life" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_191" .
 
 jp:H_192 a jp:ScholarlyWork ;
     jp:creatorName "Sara Klein-Braslavy" ;
     jp:title "Bible Commentary" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_192" .
 
 jp:H_246 a jp:ScholarlyWork ;
     jp:creatorName "D. Blumenthal" ;
     jp:title "A. Even-Chen’s The Binding of Isaac: Mystical and Philosophical Interpretations of the Bible" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_246" .
 
 jp:H_250 a jp:ScholarlyWork ;
     jp:creatorName "H. Davidson" ;
     jp:title "The Problematic Passage in Guide for the Perplexed 2.24" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_250" .
 
 jp:H_260 a jp:ScholarlyWork ;
     jp:creatorName "R. Fontaine" ;
     jp:title "Exhalations and Other Meteorological Themes in Medieval Jewish Philosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_260" .
 
 jp:H_263 a jp:ScholarlyWork ;
     jp:creatorName "R. Fontaine" ;
     jp:title "Meteorology and Zoology in Medieval Hebrew Writings" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_263" .
 
 jp:H_264 a jp:ScholarlyWork ;
     jp:creatorName "R. Fontaine" ;
     jp:title "The Early Reception of Aristotle through Averroes in Medieval Jewish Philosophy: The Case of the Midrash ha-Hokhmah" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_264" .
 
 jp:H_265 a jp:ScholarlyWork ;
     jp:creatorName "R. Fontaine" ;
     jp:title "The First Survey of the Metaphysics in Hebrew" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_265" .
 
 jp:H_283 a jp:ScholarlyWork ;
     jp:creatorName "L.E. Goodman" ;
     jp:title "Creation and Emanation" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_283" .
 
 jp:H_297 a jp:ScholarlyWork ;
     jp:creatorName "S. Harvey" ;
     jp:title "The Introductions of Thirteenth-Century Arabic-to-Hebrew Translators of Philosophic and Scientific Texts" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_297" .
 
 jp:H_325 a jp:ScholarlyWork ;
     jp:creatorName "M. Kellner" ;
     jp:title "Philosophical Themes in Maimonides’ Sefer Ahavah" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_325" .
 
 jp:H_338 a jp:ScholarlyWork ;
     jp:creatorName "H. Kreisel" ;
     jp:title "Philosophical Interpretations of the Bible" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_338" .
 
 jp:H_342 a jp:ScholarlyWork ;
     jp:creatorName "D.J. Lasker" ;
     jp:title "Medieval Karaism and Science" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_342" .
 
 jp:H_361 a jp:ScholarlyWork ;
     jp:creatorName "C.H. Manekin" ;
     jp:title "Logic in Medieval Jewish Culture" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_361" .
 
 jp:H_364 a jp:ScholarlyWork ;
     jp:creatorName "C.H. Manekin" ;
     jp:title "On Humanist Logic Judaized - Then and Now: Two Models for the Appropriation of Gentile Science" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_364" .
 
 jp:H_365 a jp:ScholarlyWork ;
     jp:creatorName "C.H. Manekin" ;
     jp:title "Propositions and Propositional Inference in Medieval Hebrew Logic" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_365" .
 
 jp:H_366 a jp:ScholarlyWork ;
     jp:creatorName "C.H. Manekin" ;
     jp:title "The Ambiguous Impact of Christian Scholasticism on Jewish Philosophy in the Late Middle Ages" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_366" .
 
 jp:H_372 a jp:ScholarlyWork ;
     jp:creatorName "A. Melamed" ;
     jp:title "Politics and the State" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_372" .
 
 jp:H_372 a jp:ScholarlyWork ;
     jp:creatorName "A. Melamed" ;
     jp:title "Politics and the State" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_372" .
 
 jp:H_383 a jp:ScholarlyWork ;
     jp:creatorName "J.T. Robinson" ;
     jp:title "Philosophy and Science in Medieval Jewish Commentaries on the Bible" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_383" .
 
 jp:H_386 a jp:ScholarlyWork ;
     jp:creatorName "J.T. Robinson" ;
     jp:title "Secondary Forms of Philosophy: On the Teaching and Transmission of Philosophy in Non-Philosophical Literary Genres" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_386" .
 
 jp:H_387 a jp:ScholarlyWork ;
     jp:creatorName "J.T. Robinson" ;
     jp:title "Soul and Intellect in Medieval Jewish Philosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_387" .
 
 jp:H_391 a jp:ScholarlyWork ;
     jp:creatorName "T.M. Rudavsky" ;
     jp:title "Time, Space and Cosmology in Medieval Jewish Philosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_391" .
 
 jp:H_393 a jp:ScholarlyWork ;
     jp:creatorName "D. Schwartz" ;
     jp:title "Astral Magic and Specific Properties (Segullot) in Medieval Jewish Thought: Non Aristotelian Science and Theology" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_393" .
 
 jp:H_402 a jp:ScholarlyWork ;
     jp:creatorName "Y. Schwartz" ;
     jp:title "Thirteenth Century Hebrew Psychological Discussion: The Role of Latin Sources in the Formation of Hebrew Aristotelianism" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_402" .
 
 jp:H_465 a jp:ScholarlyWork ;
     jp:creatorName "C. Sirat" ;
     jp:title "Entering the Field of Philosophy: Provence, Mid-Fourteenth Century" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_465" .
 
 jp:H_468 a jp:ScholarlyWork ;
     jp:creatorName "C.H. Manekin" ;
     jp:title "Warrants for Belief, and the Significance of Religious Experience" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_468" .
 
 jp:H_492 a jp:ScholarlyWork ;
     jp:creatorName "D.J. Lasker" ;
     jp:title "Latin into Hebrew and the Medieval Jewish-Christian Debate" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_492" .
 
 jp:H_547 a jp:ScholarlyWork ;
     jp:creatorName "J.T. Robinson" ;
     jp:title "Secondary Forms of Transmission: Teaching and Preaching Philosophy in Thirteenth-Century Provence" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_547" .
 
 jp:H_639 a jp:ScholarlyWork ;
     jp:creatorName "S. Stroumsa" ;
     jp:title "Conversions and Permeability between Religious Communities" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_639" .
 
 jp:H_673 a jp:ScholarlyWork ;
     jp:creatorName "Y.T. Langermann" ;
     jp:title "An Early Jewish Defence of Creationism" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_673" .
 
 jp:H_704 a jp:ScholarlyWork ;
     jp:creatorName "Abraham ibn Da’ud" ;
     jp:title "Ha-Emunah ha-Ramah" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_704" .
 
 jp:H_705 a jp:ScholarlyWork ;
     jp:creatorName "Jacob Anatoli" ;
     jp:title "Malmad ha-Talmidim" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_705" .
 
 jp:H_823 a jp:ScholarlyWork ;
     jp:creatorName "R. Haliva" ;
     jp:title "The Origin of the World – An Anti-Sceptical Approach in Medieval Jewish Averroism" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_823" .
 
 jp:H_838 a jp:ScholarlyWork ;
     jp:creatorName "Y. Halper" ;
     jp:title "Jewish Ritual as Trial in the Guide of the Perplexed" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_838" .
 
 jp:H_843 a jp:ScholarlyWork ;
     jp:creatorName "Y. Halper; R. Fontaine" ;
     jp:title "Introduction" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_843" .
 
 jp:H_847 a jp:ScholarlyWork ;
     jp:creatorName "S. Harvey" ;
     jp:title "Popularization of Philosophy via the Medieval Encyclopedias: Introduction" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_847" .
 
 jp:H_852 a jp:ScholarlyWork ;
     jp:creatorName "S. Harvey" ;
     jp:title "The Author’s Haqdamah as a Literary Form in Jewish Thought" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_852" .
 
 jp:H_860 a jp:ScholarlyWork ;
     jp:creatorName "W. Z. Harvey" ;
     jp:title "Popular Philosophy is the True Philosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_860" .
 
 jp:H_869 a jp:ScholarlyWork ;
     jp:creatorName "W. Z. Harvey" ;
     jp:title "Three Medieval Jewish Philosophers on the Hebrew Language" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_869" .
 
 jp:H_878 a jp:ScholarlyWork ;
     jp:creatorName "A. L. Ivry" ;
     jp:title "Pines’s Translation of the Guide: Alternative Possibilities" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_878" .
 
 jp:H_889 a jp:ScholarlyWork ;
     jp:creatorName "M. Kozodoy" ;
     jp:title "Verse Summaries of Scientific and Philosophical Prose Works" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_889" .
 
 jp:H_891 a jp:ScholarlyWork ;
     jp:creatorName "H. Kreisel" ;
     jp:title "Popularization of Philosophy via Scriptural Exegesis and Sermons: Introduction" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_891" .
 
 jp:H_895 a jp:ScholarlyWork ;
     jp:creatorName "H. Kreisel" ;
     jp:title "Between Philosophic Optimism and Fideistic Skepticism: An Overview of Medieval Jewish Philosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_895" .
 
 jp:H_901 a jp:ScholarlyWork ;
     jp:creatorName "Y.T. Langermann" ;
     jp:title "Logic in a Pre-Tibbonian Hebrew Philosophical Dialogue" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_901" .
 
 jp:H_925 a jp:ScholarlyWork ;
     jp:creatorName "D. Lemler" ;
     jp:title "Mofet: From Miracle to Scientific Proof" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_925" .
 
 jp:H_929 a jp:ScholarlyWork ;
     jp:creatorName "G. Licata" ;
     jp:title "The Term mitpalsef in Jewish Philosophy and its Particular Use in Jewish Averroism" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_929" .
 
 jp:H_933 a jp:ScholarlyWork ;
     jp:creatorName "C. H. Manekin" ;
     jp:title "Broadening the Audience for Philosophy Among Medieval Jews" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_933" .
 
 jp:H_935 a jp:ScholarlyWork ;
     jp:creatorName "C. H. Manekin" ;
     jp:title "Porphyry’s First Definition of Difference in the Hebrew Logical Tradition" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_935" .
 
 jp:H_936 a jp:ScholarlyWork ;
     jp:creatorName "C. H. Manekin" ;
     jp:title "‘Composition, Not Commentary’: Gersonides’ Commentary on the Isagoge of Porphyry and Its Afterlife" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_936" .
 
 jp:H_948 a jp:ScholarlyWork ;
     jp:creatorName "C. M. Neria" ;
     jp:title "Fifteenth-Century Synagogue Sermons" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_948" .
 
 jp:H_951 a jp:ScholarlyWork ;
     jp:creatorName "C. M. Neria" ;
     jp:title "The Sermon in Late Medieval Jewish Thought as Method for Popularizing Philosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_951" .
 
 jp:H_956 a jp:ScholarlyWork ;
     jp:creatorName "C. Rigo" ;
     jp:title "Dux neutrorum and the Jewish Tradition of the Guide of the Perplexed" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_956" .
 
 jp:H_960 a jp:ScholarlyWork ;
     jp:creatorName "J. T. Robinson" ;
     jp:title "Lexicons and Lexicography in Medieval Jewish Philosophy" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_960" .
 
 jp:H_961 a jp:ScholarlyWork ;
     jp:creatorName "J. T. Robinson" ;
     jp:title "Moreh ha-nevukhim: The First Hebrew Translation of the Guide of the Perplexed" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_961" .
 
 jp:H_967 a jp:ScholarlyWork ;
     jp:creatorName "S. Sadik" ;
     jp:title "Jewish Averroists contra the Popularization of Philosophy: the Case of the Philosophists" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_967" .
 
 jp:H_971 a jp:ScholarlyWork ;
     jp:creatorName "S. Sadik" ;
     jp:title "Jewish Anti-Semites: The Case of Medieval Apostates: Are the Jewish Anti-Semites Guilty of Self-Hatred?" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_971" .
 
 jp:H_976 a jp:ScholarlyWork ;
     jp:creatorName "D. Schwartz" ;
     jp:title "Happiness in Life and after Death in Late Medieval Byzantine Jewish Thought" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_976" .
 
 jp:H_983 a jp:ScholarlyWork ;
     jp:creatorName "Y. Schwartz" ;
     jp:title "Popularization of Philosophy via Mystical Literature: Introduction" ;
-    jp:year "Unknown"^^xsd:gYear ;
     jp:label "H_983" .
 
